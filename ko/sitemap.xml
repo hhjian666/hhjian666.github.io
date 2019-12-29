@@ -76,25 +76,6 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/ko/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hhjian666.github.io/ko/post/"
-                />
-  </url>
-  
-  <url>
     <loc>https://hhjian666.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"

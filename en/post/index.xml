@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Sinhaeng_Hhjian</title>
+    <title>Posts on Sinhaeng_Hhjian</title>
     <link>https://hhjian666.github.io/en/post/</link>
-    <description>Recent content in Post on Sinhaeng_Hhjian</description>
+    <description>Recent content in Posts on Sinhaeng_Hhjian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 10:21:14 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,12 +17,12 @@
     
       
       <item>
-        <title></title>
-        <link></link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>Build MyHugo&#43;GitHub Blog</title>
+        <link>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</link>
+        <pubDate>Sun, 29 Dec 2019 10:21:14 +0800</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid></guid>
-        <description></description>
+        <guid>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</guid>
+        <description>Reference： SAquarius的梦想屋 Hugo Theme Zzo Notes：使用Zzo主题时会出现如下错误： error: failed to transform resource: TOCSS: failed to transform &amp;quot;scss/main.scss&amp;quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解</description>
       </item>
       
     

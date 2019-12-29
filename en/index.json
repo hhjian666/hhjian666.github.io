@@ -1,5 +1,32 @@
 [
 {
+	"uri": "https://hhjian666.github.io/en/post/build-myhugo+github-blog/",
+	"title": "Build MyHugo+GitHub Blog",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": "Reference：\nSAquarius的梦想屋\nHugo Theme Zzo\nNotes：使用Zzo主题时会出现如下错误：\nerror: failed to transform resource: TOCSS: failed to transform \u0026quot;scss/main.scss\u0026quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解决方法：\n下载使用扩展hugo "
+},
+{
+	"uri": "https://hhjian666.github.io/en/post/",
+	"title": "Posts",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/",
+	"title": "Sinhaeng_Hhjian",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -34,22 +61,4 @@
 	"series": [],
 	"description": "Hugo, the world’s fastest framework for building websites",
 	"content": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/",
-	"title": "Sinhaeng_Hhjian",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/post/",
-	"title": "Post",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
 }]
