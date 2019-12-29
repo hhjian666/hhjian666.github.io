@@ -1,12 +1,75 @@
 [
 {
-	"uri": "https://hhjian666.github.io/en/post/build-myhugo+github-blog/",
-	"title": "Build MyHugo+GitHub Blog",
+	"uri": "https://hhjian666.github.io/en/categories/blog/",
+	"title": "blog",
 	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/blog/",
+	"title": "blog",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/post/build-myhugo+github-blog/",
+	"title": "Build MyHugo+GitHub Blog",
+	"tags": ["hugo", "github", "zzo"],
+	"categories": [],
+	"series": [],
+	"description": "",
 	"content": "Reference：\nSAquarius的梦想屋\nHugo Theme Zzo\nNotes：使用Zzo主题时会出现如下错误：\nerror: failed to transform resource: TOCSS: failed to transform \u0026quot;scss/main.scss\u0026quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解决方法：\n下载使用扩展hugo "
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Archive Page",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/github/",
+	"title": "github",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/github/",
+	"title": "github",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/hugo/",
+	"title": "hugo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/hugo/",
+	"title": "hugo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "https://hhjian666.github.io/en/post/",
@@ -27,26 +90,35 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/",
-	"title": "Categories",
+	"uri": "https://hhjian666.github.io/en/tags/",
+	"title": "Tags",
 	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "Archive Page",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/zzo/",
+	"title": "zzo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/zzo/",
+	"title": "zzo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
 	"content": ""
 },
 {
 	"uri": "https://hhjian666.github.io/en/downloads/",
 	"title": "Downloads",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "Archive Page",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/",
-	"title": "Tags",
 	"tags": [],
 	"categories": [],
 	"series": [],

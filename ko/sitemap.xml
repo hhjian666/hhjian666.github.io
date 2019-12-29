@@ -41,11 +41,6 @@
     <loc>https://hhjian666.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://hhjian666.github.io/zh/categories/"
                 />
@@ -60,11 +55,6 @@
     <loc>https://hhjian666.github.io/ko/downloads/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://hhjian666.github.io/zh/downloads/"
                 />
@@ -77,11 +67,6 @@
   
   <url>
     <loc>https://hhjian666.github.io/ko/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"

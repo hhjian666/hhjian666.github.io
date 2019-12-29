@@ -3,7 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hhjian666.github.io/en/categories/blog/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/blog/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/github/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/github/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/hugo/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/hugo/</loc>
     <lastmod>2019-12-29T10:21:14+08:00</lastmod>
   </url>
   
@@ -33,63 +68,23 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hhjian666.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/categories/"
-                />
+    <loc>https://hhjian666.github.io/en/tags/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/zzo/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/zzo/</loc>
+    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/downloads/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hhjian666.github.io/ko/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/downloads/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/downloads/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hhjian666.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hhjian666.github.io/en/tags/"
-                />
   </url>
   
   <url>
