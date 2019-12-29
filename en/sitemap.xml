@@ -97,4 +97,23 @@
                 />
   </url>
   
+  <url>
+    <loc>https://hhjian666.github.io/en/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hhjian666.github.io/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/post/"
+                />
+  </url>
+  
 </urlset>
