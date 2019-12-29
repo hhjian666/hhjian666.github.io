@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hhjian666.github.io/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hhjian666.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/zh/downloads/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hhjian666.github.io/zh/downloads/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hhjian666.github.io/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hhjian666.github.io/zh/tags/"
+                />
+  </url>
+  
+</urlset>
