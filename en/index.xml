@@ -9,12 +9,21 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 29 Dec 2019 10:21:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 15:50:01 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Markdown</title>
+        <link>https://hhjian666.github.io/en/post/markdown/</link>
+        <pubDate>Sun, 29 Dec 2019 15:50:01 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/post/markdown/</guid>
+        <description>高亮，代码可识别的语言：1c, abnf, accesslog, actionscript, ada, apache, applescript, arduino, armasm, asciidoc, aspectj, autohotkey, autoit, avrasm, awk, axapta, bash, basic, bnf, brainfuck, cal, capnproto, ceylon, clean, clojure, clojure-repl, cmake, coffeescript, coq, cos, cpp, crmsh, crystal, cs, csp, css, d, dart, delphi, diff, django, dns, dockerfile, dos, dsconfig, dts, dust, ebnf, elixir, elm, erb, erlang, erlang-repl, excel, fix, flix,</description>
+      </item>
       
       <item>
         <title>Build MyHugo&#43;GitHub Blog</title>

@@ -1,32 +1,5 @@
 [
 {
-	"uri": "https://hhjian666.github.io/en/categories/blog/",
-	"title": "blog",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/blog/",
-	"title": "blog",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/post/build-myhugo+github-blog/",
-	"title": "Build MyHugo+GitHub Blog",
-	"tags": ["hugo", "github", "zzo"],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": "Reference：\nSAquarius的梦想屋\nHugo Theme Zzo\nNotes：使用Zzo主题时会出现如下错误：\nerror: failed to transform resource: TOCSS: failed to transform \u0026quot;scss/main.scss\u0026quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解决方法：\n下载使用扩展hugo "
-},
-{
 	"uri": "https://hhjian666.github.io/en/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -36,8 +9,8 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/github/",
-	"title": "github",
+	"uri": "https://hhjian666.github.io/en/categories/edit/",
+	"title": "edit",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -45,8 +18,8 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/github/",
-	"title": "github",
+	"uri": "https://hhjian666.github.io/en/categories/edit/",
+	"title": "edit",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -54,8 +27,17 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/hugo/",
-	"title": "hugo",
+	"uri": "https://hhjian666.github.io/en/post/markdown/",
+	"title": "Markdown",
+	"tags": ["markdown"],
+	"categories": [],
+	"series": [],
+	"description": "learn to use markdown",
+	"content": "高亮，代码可识别的语言：1c, abnf, accesslog, actionscript, ada, apache, applescript, arduino, armasm, asciidoc, aspectj, autohotkey, autoit, avrasm, awk, axapta, bash, basic, bnf, brainfuck, cal, capnproto, ceylon, clean, clojure, clojure-repl, cmake, coffeescript, coq, cos, cpp, crmsh, crystal, cs, csp, css, d, dart, delphi, diff, django, dns, dockerfile, dos, dsconfig, dts, dust, ebnf, elixir, elm, erb, erlang, erlang-repl, excel, fix, flix, fortran, fsharp, gams, gauss, gcode, gherkin, glsl, go, golo, gradle, groovy, haml, handlebars, haskell, haxe, hsp, htmlbars, http, hy, inform7, ini, irpf90, java, javascript, json, julia, kotlin, lasso, ldif, leaf, less, lisp, livecodeserver, livescript, llvm, lsl, lua, makefile, markdown, mathematica, matlab, maxima, mel, mercury, mipsasm, mizar, mojolicious, monkey, moonscript, n1ql, nginx, nimrod, nix, nsis, objectivec, ocaml, openscad, oxygene, parser3, perl, pf, php, pony, powershell, processing, profile, prolog, protobuf, puppet, purebasic, python, q, qml, r, rib, roboconf, rsl, ruby, ruleslanguage, rust, scala, scheme, scilab, scss, smali, smalltalk, sml, sqf, sql, stan, stata, step21, stylus, subunit, swift, taggerscript, tap, tcl, tex, thrift, tp, twig, typescript, vala, vbnet, vbscript, vbscript-html, verilog, vhdl, vim, x86asm, xl, xml, xquery, yaml, zephir\n1 2 3  $(document).ready(function () {\ralert(\u0026#39;hello world\u0026#39;);\r});\r  1 2 3 4 5  ```javascript\r$(document).ready(function () {\ralert(\u0026#39;hello world\u0026#39;);\r});\r```\r  1 2 3  def g(x):\ryield from range(x, 0, -1)\ryield from range(x)\r  nohightlight 禁用高亮\n====== 标题1\t\u0026mdash;\u0026mdash; 标题2\n大标题 小标题 斜体文本 斜体文本 粗体文本 粗体文本 粗斜体文本 粗斜体文本\nhttps://www.baidu.com\n 减号（加号、星号）+空格   数字+空格 嵌套使用  嵌套使用     最外层引用\n 嵌套引用\n  $$ x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}. $$\n$$\nx \\href{why-equal.html}{=} y^2 + 1\n$$\n$$ (x+1)^2 = \\class{hidden}{(x+1)(x+1)} $$\n$$\n(x+1)^2 = \\cssId{step1}{\\style{visibility:hidden}{(x+1)(x+1)}}\n$$\n\rimg:\r\r\nthis is a text\rYeahhh ! is a text\rBe carefull is a text\rBeware ! is a text\r  \rExpand me\r\r\rGood job\r\r note, info, tip, warning A notice disclaimer\n text "
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/markdown/",
+	"title": "markdown",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -63,8 +45,8 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/hugo/",
-	"title": "hugo",
+	"uri": "https://hhjian666.github.io/en/tags/markdown/",
+	"title": "markdown",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -96,6 +78,69 @@
 	"categories": [],
 	"series": [],
 	"description": "Archive Page",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/blog/",
+	"title": "blog",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/blog/",
+	"title": "blog",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/post/build-myhugo+github-blog/",
+	"title": "Build MyHugo+GitHub Blog",
+	"tags": ["hugo", "github", "zzo"],
+	"categories": [],
+	"series": [],
+	"description": "build myhugo+github blog",
+	"content": "Reference：\nSAquarius的梦想屋\nHugo Theme Zzo\nNotes：使用Zzo主题时会出现如下错误：\nerror: failed to transform resource: TOCSS: failed to transform \u0026quot;scss/main.scss\u0026quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解决方法：\n下载使用扩展hugo "
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/github/",
+	"title": "github",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/github/",
+	"title": "github",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/hugo/",
+	"title": "hugo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/hugo/",
+	"title": "hugo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
 	"content": ""
 },
 {
