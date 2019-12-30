@@ -18,6 +18,60 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/series/",
+	"title": "Series",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/series/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/windows/%E7%94%B5%E8%84%91%E8%87%AA%E5%8A%A8%E9%94%81%E5%AE%9A/",
+	"title": "电脑自动锁定",
+	"tags": ["windows"],
+	"categories": [],
+	"series": ["windows"],
+	"description": "为什么我的电脑过一段时间就自动锁定了",
+	"content": " 开始，控制面板 系统和安全 电源选项，更改计算机睡眠时间  百度知道\n"
+},
+{
 	"uri": "https://hhjian666.github.io/en/categories/edit/",
 	"title": "edit",
 	"tags": [],
@@ -51,15 +105,6 @@
 	"categories": [],
 	"series": [],
 	"description": "Post page",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/",
-	"title": "Tags",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
 	"content": ""
 },
 {
@@ -133,15 +178,6 @@
 	"series": ["Themes Guide"],
 	"description": "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
 	"content": "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.\nHeadings The following HTML \u0026lt;h1\u0026gt;—\u0026lt;h6\u0026gt; elements represent six levels of section headings. \u0026lt;h1\u0026gt; is the highest section level while \u0026lt;h6\u0026gt; is the lowest.\nH1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.\nItatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.\nBlockquotes The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.\nBlockquote without attribution  Tiam, ad mint andaepu dandae nostion secatur sequo quae.\nNote that you can use Markdown syntax within a blockquote.\n Blockquote with attribution  Don't communicate by sharing memory, share memory by communicating.\n— Rob Pike1\n Tables Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.\n   Name Age     Bob 27   Alice 23    Inline Markdown within tables    Inline  Markdown  In  Table     italics bold strikethrough  code    Code Blocks Code block with backticks html\r\u0026lt;!DOCTYPE html\u0026gt;\r\u0026lt;html lang=\u0026quot;en\u0026quot;\u0026gt;\r\u0026lt;head\u0026gt;\r\u0026lt;meta charset=\u0026quot;UTF-8\u0026quot;\u0026gt;\r\u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt;\r\u0026lt;/head\u0026gt;\r\u0026lt;body\u0026gt;\r\u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt;\r\u0026lt;/body\u0026gt;\r\u0026lt;/html\u0026gt;\rCode block indented with four spaces \u0026lt;!DOCTYPE html\u0026gt;\r\u0026lt;html lang=\u0026quot;en\u0026quot;\u0026gt;\r\u0026lt;head\u0026gt;\r\u0026lt;meta charset=\u0026quot;UTF-8\u0026quot;\u0026gt;\r\u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt;\r\u0026lt;/head\u0026gt;\r\u0026lt;body\u0026gt;\r\u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt;\r\u0026lt;/body\u0026gt;\r\u0026lt;/html\u0026gt;\r Code block with Hugo's internal highlight shortcode 1 2 3 4 5 6 7 8 9 10  \u0026lt;!DOCTYPE html\u0026gt;\r\u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt;\r\u0026lt;head\u0026gt;\r\u0026lt;meta charset=\u0026#34;UTF-8\u0026#34;\u0026gt;\r\u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt;\r\u0026lt;/head\u0026gt;\r\u0026lt;body\u0026gt;\r\u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt;\r\u0026lt;/body\u0026gt;\r\u0026lt;/html\u0026gt;   List Types Ordered List  First item Second item Third item  Unordered List  List item Another item And another item  Nested list  Item   First Sub-item Second Sub-item  Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.\nH2O\nXn + Yn = Zn\nPress CTRL+ALT+Delete to end the session.\nMost salamanders are nocturnal, and hunt for insects, worms, and other small creatures.\n The above quote is excerpted from Rob Pike's talk during Gopherfest, November 18, 2015. \u0026#x21a9;\u0026#xfe0e;\n  "
-},
-{
-	"uri": "https://hhjian666.github.io/en/series/",
-	"title": "Series",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "https://hhjian666.github.io/en/categories/syntax/",
@@ -411,6 +447,15 @@
 	"categories": [],
 	"series": [],
 	"description": "Recommends Page",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/windows/",
+	"title": "Windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Windows Page",
 	"content": ""
 },
 {
