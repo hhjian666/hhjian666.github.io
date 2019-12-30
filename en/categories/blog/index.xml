@@ -18,10 +18,10 @@
       
       <item>
         <title>Build MyHugo&#43;GitHub Blog</title>
-        <link>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</link>
+        <link>https://hhjian666.github.io/en/posts/build-myhugo&#43;github-blog/</link>
         <pubDate>Sun, 29 Dec 2019 10:21:14 +0800</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</guid>
+        <guid>https://hhjian666.github.io/en/posts/build-myhugo&#43;github-blog/</guid>
         <description>Reference： SAquarius的梦想屋 Hugo Theme Zzo Notes：使用Zzo主题时会出现如下错误： error: failed to transform resource: TOCSS: failed to transform &amp;quot;scss/main.scss&amp;quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解</description>
       </item>
       

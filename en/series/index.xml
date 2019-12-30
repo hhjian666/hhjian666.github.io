@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/series/</link>
+    <description>Recent content in Series on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Themes Guide</title>
+        <link>https://hhjian666.github.io/en/series/themes-guide/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/series/themes-guide/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Go Web Dev</title>
+        <link>https://hhjian666.github.io/en/series/go-web-dev/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/series/go-web-dev/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

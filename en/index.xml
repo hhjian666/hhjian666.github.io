@@ -18,20 +18,174 @@
       
       <item>
         <title>Markdown</title>
-        <link>https://hhjian666.github.io/en/post/markdown/</link>
+        <link>https://hhjian666.github.io/en/posts/markdown/</link>
         <pubDate>Sun, 29 Dec 2019 15:50:01 +0800</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/post/markdown/</guid>
+        <guid>https://hhjian666.github.io/en/posts/markdown/</guid>
         <description>高亮，代码可识别的语言：1c, abnf, accesslog, actionscript, ada, apache, applescript, arduino, armasm, asciidoc, aspectj, autohotkey, autoit, avrasm, awk, axapta, bash, basic, bnf, brainfuck, cal, capnproto, ceylon, clean, clojure, clojure-repl, cmake, coffeescript, coq, cos, cpp, crmsh, crystal, cs, csp, css, d, dart, delphi, diff, django, dns, dockerfile, dos, dsconfig, dts, dust, ebnf, elixir, elm, erb, erlang, erlang-repl, excel, fix, flix,</description>
       </item>
       
       <item>
         <title>Build MyHugo&#43;GitHub Blog</title>
-        <link>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</link>
+        <link>https://hhjian666.github.io/en/posts/build-myhugo&#43;github-blog/</link>
         <pubDate>Sun, 29 Dec 2019 10:21:14 +0800</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</guid>
+        <guid>https://hhjian666.github.io/en/posts/build-myhugo&#43;github-blog/</guid>
         <description>Reference： SAquarius的梦想屋 Hugo Theme Zzo Notes：使用Zzo主题时会出现如下错误： error: failed to transform resource: TOCSS: failed to transform &amp;quot;scss/main.scss&amp;quot; **(**text/x-scss**)**: this feature is not available in your current Hugo version 解</description>
+      </item>
+      
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>https://hhjian666.github.io/en/posts/markdown-syntax/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/markdown-syntax/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Math Typesetting</title>
+        <link>https://hhjian666.github.io/en/posts/math-typesetting/</link>
+        <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/math-typesetting/</guid>
+        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>https://hhjian666.github.io/en/posts/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Viz support</title>
+        <link>https://hhjian666.github.io/en/posts/test-viz/</link>
+        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-viz/</guid>
+        <description>digraph G {subgraph cluster_0 {style=filled;color=lightgrey;node [style=filled,color=white];a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3;label = &amp;quot;process #1&amp;quot;;}subgraph cluster_1 {node [style=filled];b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3;label = &amp;quot;process #2&amp;quot;;color=blue}start -&amp;gt; a0;start -&amp;gt; b0;a1 -&amp;gt; b3;b2 -&amp;gt; a3;a3 -&amp;gt; a0;a3 -&amp;gt; end;b3 -&amp;gt; end;start [shape=Mdiamond];end [shape=Msquare];}</description>
+      </item>
+      
+      <item>
+        <title>Wavedrom support</title>
+        <link>https://hhjian666.github.io/en/posts/test-wavedrom/</link>
+        <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-wavedrom/</guid>
+        <description>{ &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;: &amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;p.....|...&amp;quot;},{&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]},{&amp;quot;name&amp;quot;: &amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;0.1..0|1.0&amp;quot;},{},{&amp;quot;name&amp;quot;: &amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;}]}</description>
+      </item>
+      
+      <item>
+        <title>Chart support</title>
+        <link>https://hhjian666.github.io/en/posts/test-chartjs/</link>
+        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-chartjs/</guid>
+        <description>{&amp;quot;type&amp;quot;: &amp;quot;bar&amp;quot;,&amp;quot;data&amp;quot;: {&amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;],&amp;quot;datasets&amp;quot;: [{&amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;,&amp;quot;data&amp;quot;: [12, 19, 3, 5, 3, 8]}]}}{&amp;quot;type&amp;quot;: &amp;quot;line&amp;quot;,&amp;quot;data&amp;quot;: {&amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;],&amp;quot;datasets&amp;quot;: [{&amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;,&amp;quot;data&amp;quot;: [12, 19, 3, 5, 2, 3],&amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;,&amp;quot;borderColor&amp;quot;:&amp;quot;orange&amp;quot;},{&amp;quot;label&amp;quot;: &amp;quot;Some other set&amp;quot;,&amp;quot;data&amp;quot;: [15, 8, 13, 5, 5, 9],&amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;,&amp;quot;borderColor&amp;quot;:&amp;quot;#44ccff&amp;quot;}]}}</description>
+      </item>
+      
+      <item>
+        <title>JS Sequence Diagram support</title>
+        <link>https://hhjian666.github.io/en/posts/test-js-sequence-diagrams/</link>
+        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-js-sequence-diagrams/</guid>
+        <description>Alice-&amp;gt;Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob--&amp;gt;Alice: I am good thanks!Title: Here is a titleA-&amp;gt;B: Normal lineB--&amp;gt;C: Dashed lineC-&amp;gt;&amp;gt;D: Open arrowD--&amp;gt;&amp;gt;A: Dashed open arrow</description>
+      </item>
+      
+      <item>
+        <title>Mermaid support</title>
+        <link>https://hhjian666.github.io/en/posts/test-mermaid/</link>
+        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-mermaid/</guid>
+        <description>graph TD;A--&amp;gt;B;A--&amp;gt;C;B--&amp;gt;D;C--&amp;gt;D;graph TD;A--&amp;gt;B;A--&amp;gt;C;B--&amp;gt;D;C--&amp;gt;D;graph TD;A--&amp;gt;B;A--&amp;gt;C;B--&amp;gt;D;C--&amp;gt;D;sequenceDiagramparticipant Aliceparticipant BobAlice-&amp;gt;John: Hello John, how are you?loop HealthcheckJohn-&amp;gt;John: Fight against hypochondriaendNote right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...John--&amp;gt;Alice: Great!John-&amp;gt;Bob: How about you?Bob--&amp;gt;John: Jolly good!graph TDA[Hard] --&amp;gt;|Text| B(Round)B --&amp;gt; C{Decision}C --&amp;gt;|One| D[Result 1]C --&amp;gt;|Two| E[Result 2]ganttsection SectionCompleted :done, des1, 2014-01-06,2014-01-08Active :active, des2, 2014-01-07, 3dParallel 1 : des3, after des1, 1dParallel 2 : des4, after des1, 1dParallel 3 : des5, after des3, 1dParallel 4 : des6, after des4, 1dclassDiagramClass01 &amp;lt;|-- AveryLongClass : Cool&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01Class09 --&amp;gt; C2 : Where am i?</description>
+      </item>
+      
+      <item>
+        <title>MathJax support</title>
+        <link>https://hhjian666.github.io/en/posts/test-mathjax/</link>
+        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-mathjax/</guid>
+        <description>When \(a \ne 0\), there are two solutions to \((ax^2 + bx + c = 0)\) and they are
+\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]</description>
+      </item>
+      
+      <item>
+        <title>Katex support</title>
+        <link>https://hhjian666.github.io/en/posts/test-katext/</link>
+        <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-katext/</guid>
+        <description>The following
+$$ \int_{a}^{b} x^2 dx $$
+Is an integral
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
+Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
+See the online reference of supported TeX functions.
+Note: For inline math to render correctly, your content file extension must be .mmark. See the official mmark site.
+Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
+      </item>
+      
+      <item>
+        <title>Flowchart support</title>
+        <link>https://hhjian666.github.io/en/posts/test-flowchart/</link>
+        <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/test-flowchart/</guid>
+        <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank]e=&amp;gt;end: End|future:&amp;gt;http://www.google.comop1=&amp;gt;operation: My Operation|pastop2=&amp;gt;operation: Stuff|currentsub1=&amp;gt;subroutine: My Subroutine|invalidcond=&amp;gt;condition: Yesor No?|approved:&amp;gt;http://www.google.comc2=&amp;gt;condition: Good idea|rejectedio=&amp;gt;inputoutput: catch something...|futurest-&amp;gt;op1(right)-&amp;gt;condcond(yes, right)-&amp;gt;c2cond(no)-&amp;gt;sub1(left)-&amp;gt;op1c2(yes)-&amp;gt;io-&amp;gt;ec2(no)-&amp;gt;op2-&amp;gt;e</description>
+      </item>
+      
+      <item>
+        <title>Fourth</title>
+        <link>https://hhjian666.github.io/en/presentations/dir/fourth/</link>
+        <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/presentations/dir/fourth/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Third</title>
+        <link>https://hhjian666.github.io/en/presentations/third/</link>
+        <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/presentations/third/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Second</title>
+        <link>https://hhjian666.github.io/en/presentations/second/</link>
+        <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/presentations/second/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>First</title>
+        <link>https://hhjian666.github.io/en/presentations/first/</link>
+        <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/presentations/first/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Placeholder Text</title>
+        <link>https://hhjian666.github.io/en/posts/placeholder-text/</link>
+        <pubDate>Sat, 09 Mar 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/placeholder-text/</guid>
+        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo.&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -43,6 +197,101 @@
         <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
+      </item>
+      
+      <item>
+        <title>Photo</title>
+        <link>https://hhjian666.github.io/en/gallery/photo/</link>
+        <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/gallery/photo/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Cartoon</title>
+        <link>https://hhjian666.github.io/en/gallery/cartoon/</link>
+        <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/gallery/cartoon/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Syntax highlighting</title>
+        <link>https://hhjian666.github.io/en/notes/hugo/syntax-highlight/</link>
+        <pubDate>Wed, 11 Oct 2017 10:33:41 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/hugo/syntax-highlight/</guid>
+        <description>Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris. This is a blockqute. line line Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1</description>
+      </item>
+      
+      <item>
+        <title>Note-1</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/note-1/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/note-1/</guid>
+        <description>post-1 content
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec. Quisque metus tellus, tincidunt eu consequat consequat, placerat sed ante. Cras pulvinar eros ex, vel luctus eros viverra sed. Donec nec quam aliquam, ultricies neque sed, sollicitudin lorem.</description>
+      </item>
+      
+      <item>
+        <title>Note-2</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/note-2/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/note-2/</guid>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec.</description>
+      </item>
+      
+      <item>
+        <title>Note-3</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/note-3/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/note-3/</guid>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec.</description>
+      </item>
+      
+      <item>
+        <title>Go 1</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1/</link>
+        <pubDate>Thu, 01 Nov 2012 10:33:41 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1/</guid>
+        <description>Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.
+Veniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.</description>
+      </item>
+      
+      <item>
+        <title>Go 2</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-2/</link>
+        <pubDate>Thu, 01 Nov 2012 10:33:41 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-2/</guid>
+        <description>Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.
+Veniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.</description>
+      </item>
+      
+      <item>
+        <title>Go 4</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/go/go-4/</link>
+        <pubDate>Thu, 01 Nov 2012 10:33:41 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/go/go-4/</guid>
+        <description>Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.
+Veniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.</description>
+      </item>
+      
+      <item>
+        <title>Go 5</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</link>
+        <pubDate>Thu, 01 Nov 2012 10:33:41 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</guid>
+        <description>Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.
+Veniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.</description>
       </item>
       
     

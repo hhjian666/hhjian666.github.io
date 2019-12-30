@@ -1,5 +1,14 @@
 [
 {
+	"uri": "https://hhjian666.github.io/ko/archive/",
+	"title": "Archive",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Archive Page",
+	"content": "archive page\n"
+},
+{
 	"uri": "https://hhjian666.github.io/ko/about/",
 	"title": "About",
 	"tags": [],
@@ -18,6 +27,33 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/ko/gallery/",
+	"title": "Galleries",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/ko/gallery/photo/",
+	"title": "Photo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "포토 갤러리",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/ko/gallery/cartoon/",
+	"title": "Cartoon",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "cartoon gallery",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/ko/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -27,8 +63,17 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/ko/downloads/",
-	"title": "Downloads",
+	"uri": "https://hhjian666.github.io/ko/posts/",
+	"title": "Posts",
+	"tags": ["index"],
+	"categories": [],
+	"series": [],
+	"description": "Post page",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/ko/series/",
+	"title": "Series",
 	"tags": [],
 	"categories": [],
 	"series": [],

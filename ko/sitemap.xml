@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hhjian666.github.io/ko/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/archive/"
+                />
+  </url>
+  
+  <url>
     <loc>https://hhjian666.github.io/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -27,13 +42,53 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/ko/gallery/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hhjian666.github.io/ko/"
+                href="https://hhjian666.github.io/ko/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/ko/gallery/photo/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/gallery/photo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/ko/gallery/cartoon/</loc>
+    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/gallery/cartoon/"
                 />
   </url>
   
@@ -41,8 +96,8 @@
     <loc>https://hhjian666.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/categories/"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,16 +107,30 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/ko/downloads/</loc>
+    <loc>https://hhjian666.github.io/ko/posts/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/downloads/"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hhjian666.github.io/ko/downloads/"
+                href="https://hhjian666.github.io/ko/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/ko/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/series/"
                 />
   </url>
   
@@ -69,8 +138,8 @@
     <loc>https://hhjian666.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/tags/"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

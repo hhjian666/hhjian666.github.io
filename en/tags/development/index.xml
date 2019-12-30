@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/tags/development/</link>
+    <description>Recent content in Development on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 09 Oct 2016 11:44:14 +0900</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Note-1</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/note-1/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/note-1/</guid>
+        <description>post-1 content
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec. Quisque metus tellus, tincidunt eu consequat consequat, placerat sed ante. Cras pulvinar eros ex, vel luctus eros viverra sed. Donec nec quam aliquam, ultricies neque sed, sollicitudin lorem.</description>
+      </item>
+      
+      <item>
+        <title>Note-3</title>
+        <link>https://hhjian666.github.io/en/notes/sublist/note-3/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/notes/sublist/note-3/</guid>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

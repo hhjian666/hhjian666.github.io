@@ -3,41 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/categories/edit/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/categories/edit/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/post/markdown/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/markdown/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/markdown/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/post/</loc>
-    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hhjian666.github.io/en/</loc>
     <lastmod>2019-12-29T15:50:01+08:00</lastmod>
     <xhtml:link
@@ -47,24 +12,69 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://hhjian666.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://hhjian666.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/</loc>
+    <loc>https://hhjian666.github.io/en/categories/</loc>
+    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/edit/</loc>
     <lastmod>2019-12-29T15:50:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/blog/</loc>
-    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+    <loc>https://hhjian666.github.io/en/posts/markdown/</loc>
+    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/markdown/</loc>
+    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/</loc>
+    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/</loc>
+    <lastmod>2019-12-29T15:50:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/tags/"
+                />
   </url>
   
   <url>
@@ -73,12 +83,7 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/post/build-myhugo&#43;github-blog/</loc>
-    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/github/</loc>
+    <loc>https://hhjian666.github.io/en/posts/build-myhugo&#43;github-blog/</loc>
     <lastmod>2019-12-29T10:21:14+08:00</lastmod>
   </url>
   
@@ -93,23 +98,208 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/hugo/</loc>
-    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hhjian666.github.io/en/tags/zzo/</loc>
     <lastmod>2019-12-29T10:21:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/zzo/</loc>
-    <lastmod>2019-12-29T10:21:14+08:00</lastmod>
+    <loc>https://hhjian666.github.io/en/tags/css/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/html/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/series/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/series/themes-guide/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/math-typesetting/</loc>
+    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/amoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/bamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/emoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/emoji-support/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/gamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/namoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/diagram/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-viz/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-wavedrom/</loc>
+    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-chartjs/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-js-sequence-diagrams/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/diagram/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-mermaid/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/math/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-mathjax/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-katext/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/test-flowchart/</loc>
+    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/presentations/dir/fourth/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/presentations/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/presentations/third/</loc>
+    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/presentations/second/</loc>
+    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/presentations/first/</loc>
+    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/archive/"
+                />
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/downloads/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/recommends/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/posts/placeholder-text/</loc>
+    <lastmod>2019-03-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/text/</loc>
+    <lastmod>2019-03-09T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -125,6 +315,136 @@
                 hreflang="en"
                 href="https://hhjian666.github.io/en/about/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/gallery/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/gallery/photo/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/gallery/photo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/gallery/cartoon/</loc>
+    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hhjian666.github.io/ko/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hhjian666.github.io/en/gallery/cartoon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/hugo/</loc>
+    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/</loc>
+    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/hugo/syntax-highlight/</loc>
+    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/blogging/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/ctest/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/development/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/fast/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/go/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/series/go-web-dev/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/note-1/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/note-2/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/note-3/</loc>
+    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1/</loc>
+    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-2/</loc>
+    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-4/</loc>
+    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</loc>
+    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/notes/sublist/</loc>
+    <lastmod>2012-10-09T11:44:14+09:00</lastmod>
   </url>
   
 </urlset>

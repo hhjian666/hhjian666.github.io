@@ -18,11 +18,30 @@
       
       <item>
         <title>Markdown</title>
-        <link>https://hhjian666.github.io/en/post/markdown/</link>
+        <link>https://hhjian666.github.io/en/posts/markdown/</link>
         <pubDate>Sun, 29 Dec 2019 15:50:01 +0800</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/post/markdown/</guid>
+        <guid>https://hhjian666.github.io/en/posts/markdown/</guid>
         <description>高亮，代码可识别的语言：1c, abnf, accesslog, actionscript, ada, apache, applescript, arduino, armasm, asciidoc, aspectj, autohotkey, autoit, avrasm, awk, axapta, bash, basic, bnf, brainfuck, cal, capnproto, ceylon, clean, clojure, clojure-repl, cmake, coffeescript, coq, cos, cpp, crmsh, crystal, cs, csp, css, d, dart, delphi, diff, django, dns, dockerfile, dos, dsconfig, dts, dust, ebnf, elixir, elm, erb, erlang, erlang-repl, excel, fix, flix,</description>
+      </item>
+      
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>https://hhjian666.github.io/en/posts/markdown-syntax/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/markdown-syntax/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Placeholder Text</title>
+        <link>https://hhjian666.github.io/en/posts/placeholder-text/</link>
+        <pubDate>Sat, 09 Mar 2019 12:00:06 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/posts/placeholder-text/</guid>
+        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo.&lt;/p&gt;</description>
       </item>
       
     
