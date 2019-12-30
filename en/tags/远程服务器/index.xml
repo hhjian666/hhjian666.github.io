@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>windows on Sinhaeng_Hhjian</title>
-    <link>https://hhjian666.github.io/en/series/windows/</link>
-    <description>Recent content in windows on Sinhaeng_Hhjian</description>
+    <title>远程服务器 on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/tags/%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+    <description>Recent content in 远程服务器 on Sinhaeng_Hhjian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Dec 2019 20:16:47 +0800</lastBuildDate>
     
-        <atom:link href="https://hhjian666.github.io/en/series/windows/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hhjian666.github.io/en/tags/%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,15 +23,6 @@
         <author>1109647326@qq.com (hhjian)</author>
         <guid>https://hhjian666.github.io/en/windows/%E8%BF%9E%E6%8E%A5%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
         <description>win + R，mstsc 服务器ip地址 用户名+密码 百度经验</description>
-      </item>
-      
-      <item>
-        <title>电脑自动锁定</title>
-        <link>https://hhjian666.github.io/en/windows/%E7%94%B5%E8%84%91%E8%87%AA%E5%8A%A8%E9%94%81%E5%AE%9A/</link>
-        <pubDate>Mon, 30 Dec 2019 19:03:28 +0800</pubDate>
-        <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/windows/%E7%94%B5%E8%84%91%E8%87%AA%E5%8A%A8%E9%94%81%E5%AE%9A/</guid>
-        <description>开始，控制面板 系统和安全 电源选项，更改计算机睡眠时间 百度知道</description>
       </item>
       
     
