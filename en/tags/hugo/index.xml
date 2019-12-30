@@ -27,10 +27,10 @@
       
       <item>
         <title>Syntax highlighting</title>
-        <link>https://hhjian666.github.io/en/notes/hugo/syntax-highlight/</link>
+        <link>https://hhjian666.github.io/en/posts/syntax-highlight/</link>
         <pubDate>Wed, 11 Oct 2017 10:33:41 +0900</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/notes/hugo/syntax-highlight/</guid>
+        <guid>https://hhjian666.github.io/en/posts/syntax-highlight/</guid>
         <description>Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris. This is a blockqute. line line Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1</description>
       </item>
       

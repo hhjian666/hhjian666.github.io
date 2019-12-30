@@ -138,12 +138,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/themes/</loc>
+    <loc>https://hhjian666.github.io/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/themes/</loc>
+    <loc>https://hhjian666.github.io/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
@@ -368,83 +368,8 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/notes/</loc>
+    <loc>https://hhjian666.github.io/en/posts/syntax-highlight/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/hugo/syntax-highlight/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/blogging/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/categories/ctest/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/development/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/fast/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/go/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/series/go-web-dev/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/note-1/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/note-2/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/note-3/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-2/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-4/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/notes/sublist/</loc>
-    <lastmod>2012-10-09T11:44:14+09:00</lastmod>
   </url>
   
 </urlset>

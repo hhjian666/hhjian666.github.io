@@ -153,7 +153,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/themes/",
+	"uri": "https://hhjian666.github.io/en/tags/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
@@ -162,7 +162,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/themes/",
+	"uri": "https://hhjian666.github.io/en/categories/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
@@ -477,146 +477,11 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/notes/",
-	"title": "Notes",
-	"tags": ["index"],
-	"categories": [],
-	"series": [],
-	"description": "Note page",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/hugo/syntax-highlight/",
+	"uri": "https://hhjian666.github.io/en/posts/syntax-highlight/",
 	"title": "Syntax highlighting",
 	"tags": ["hugo"],
 	"categories": [],
 	"series": [""],
 	"description": "Syntax highlighting test",
 	"content": "Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.\n This is a blockqute.\n line\nline\nCode Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly.\nDiff 1 2 3 4 5 6 7 8 9 10  *** /path/to/original\t\u0026#39;\u0026#39;timestamp\u0026#39;\u0026#39;\r--- /path/to/new\t\u0026#39;\u0026#39;timestamp\u0026#39;\u0026#39;\r***************\r*** 1 ****\r! This is a line.\r--- 1 ---\r! This is a replacement line.\rIt is important to spell\r-removed line\r+new line\r  Makefile 1 2 3 4 5  CC=gcc\rCFLAGS=-I.\rhellomake: hellomake.o hellofunc.o\r$(CC) -o hellomake hellomake.o hellofunc.o -I.\r  JSON 1 2 3  {\u0026#34;employees\u0026#34;:[\r{\u0026#34;firstName\u0026#34;:\u0026#34;John\u0026#34;, \u0026#34;lastName\u0026#34;:\u0026#34;Doe\u0026#34;},\r]}\r  Markdown 1 2 3  **bold** *italics* [link](www.example.com)\r  JavaScript 1  document.write(\u0026#39;Hello, world!\u0026#39;);\r  CSS 1 2 3  body {\rbackground-color: red;\r}\r  Objective C 1 2 3 4 5 6  #import \u0026lt;stdio.h\u0026gt;\r\rint main (void)\r{\rprintf (\u0026#34;Hello world!\\n\u0026#34;);\r}\r  Python 1  print \u0026#34;Hello, world!\u0026#34;\r  XML 1 2 3 4 5  \u0026lt;employees\u0026gt;\r\u0026lt;employee\u0026gt;\r\u0026lt;firstName\u0026gt;John\u0026lt;/firstName\u0026gt; \u0026lt;lastName\u0026gt;Doe\u0026lt;/lastName\u0026gt;\r\u0026lt;/employee\u0026gt;\r\u0026lt;/employees\u0026gt;\r  Perl 1  print \u0026#34;Hello, World!\\n\u0026#34;;\r  Bash 1  echo \u0026#34;Hello World\u0026#34;\r  PHP 1  \u0026lt;?php echo \u0026#39;\u0026lt;p\u0026gt;Hello World\u0026lt;/p\u0026gt;\u0026#39;; ?\u0026gt;   CoffeeScript 1  console.log(“Hello world!”);\r  C# 1 2 3 4 5 6 7 8  using System;\rclass Program\r{\rpublic static void Main(string[] args)\r{\rConsole.WriteLine(\u0026#34;Hello, world!\u0026#34;);\r}\r}\r  C++ 1 2 3 4 5 6 7  #include \u0026lt;iostream.h\u0026gt;\r\rmain()\r{\rcout \u0026lt;\u0026lt; \u0026#34;Hello World!\u0026#34;;\rreturn 0;\r}\r  SQL 1 2  SELECT column_name,column_name\rFROM table_name;\r  Go 1 2 3 4 5  package main\rimport \u0026#34;fmt\u0026#34;\rfunc main() {\rfmt.Println(\u0026#34;Hello, 世界\u0026#34;)\r}\r  Ruby 1  puts \u0026#34;Hello, world!\u0026#34;\r  Java 1 2 3 4 5 6 7 8 9 10 11 12  import javax.swing.JFrame; //Importing class JFrame\rimport javax.swing.JLabel; //Importing class JLabel\rpublic class HelloWorld {\rpublic static void main(String[] args) {\rJFrame frame = new JFrame(); //Creating frame\r frame.setTitle(\u0026#34;Hi!\u0026#34;); //Setting title frame\r frame.add(new JLabel(\u0026#34;Hello, world!\u0026#34;));//Adding text to frame\r frame.pack(); //Setting size to smallest\r frame.setLocationRelativeTo(null); //Centering frame\r frame.setVisible(true); //Showing frame\r }\r}\r  Latex Equation 1  \\frac{d}{dx}\\left( \\int_{0}^{x} f(u)\\,du\\right)=f(x).\r  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38  import {x, y} as p from \u0026#39;point\u0026#39;;\rconst ANSWER = 42;\rclass Car extends Vehicle {\rconstructor(speed, cost) {\rsuper(speed);\rvar c = Symbol(\u0026#39;cost\u0026#39;);\rthis[c] = cost;\rthis.intro = `This is a car runs at\r${speed}.`;\r}\r}\rfor (let num of [1, 2, 3]) {\rconsole.log(num + 0b111110111);\r}\rfunction $initHighlight(block, flags) {\rtry {\rif (block.className.search(/\\bno\\-highlight\\b/) != -1)\rreturn processBlock(block.function, true, 0x0F) + \u0026#39; class=\u0026#34;\u0026#34;\u0026#39;;\r} catch (e) {\r/* handle exception */\rvar e4x =\r\u0026lt;div\u0026gt;Example\r\u0026lt;p\u0026gt;1234\u0026lt;/p\u0026gt;\u0026lt;/div\u0026gt;; }\rfor (var i = 0 / 2; i \u0026lt; classes.length; i++) {\r// \u0026#34;0 / 2\u0026#34; should not be parsed as regexp\r if (checkCondition(classes[i]) === undefined)\rreturn /\\d+[\\s/]/g;\r}\rconsole.log(Array.every(classes, Boolean));\r}\rexport $initHighlight;\r  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  \u0026lt;!DOCTYPE html\u0026gt;\r\u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt;\r\u0026lt;head\u0026gt;\r\u0026lt;meta charset=\u0026#34;utf-8\u0026#34;\u0026gt;\r\u0026lt;title\u0026gt;Hello world\u0026lt;/title\u0026gt;\r\u0026lt;link href=\u0026#39;http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic\u0026#39; rel=\u0026#39;stylesheet\u0026#39; type=\u0026#39;text/css\u0026#39;\u0026gt;\r\u0026lt;link rel=\u0026#34;stylesheet\u0026#34; href=\u0026#34;index.css\u0026#34; /\u0026gt;\r\u0026lt;/head\u0026gt;\r\u0026lt;body\u0026gt;\r\u0026lt;div id=\u0026#34;app\u0026#34;\u0026gt;\u0026lt;/div\u0026gt;\r\u0026lt;script src=\u0026#34;//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.1/less.min.js\u0026#34;\u0026gt;\u0026lt;/script\u0026gt;\r\u0026lt;script src=\u0026#34;vendor/prism.js\u0026#34;\u0026gt;\u0026lt;/script\u0026gt;\r\u0026lt;script src=\u0026#34;examples.bundle.js\u0026#34;\u0026gt;\u0026lt;/script\u0026gt;\r\u0026lt;/body\u0026gt;\r\u0026lt;/html\u0026gt;\r  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41  /*********************************************************\r* General\r*/\rpre[class*=\u0026#34;language-\u0026#34;],\rcode {\rcolor: #5c6e74;\rfont-size: 13px;\rtext-shadow: none;\rfont-family: Consolas, Monaco, \u0026#39;Andale Mono\u0026#39;, \u0026#39;Ubuntu Mono\u0026#39;, monospace;\rdirection: ltr;\rtext-align: left;\rwhite-space: pre;\rword-spacing: normal;\rword-break: normal;\rline-height: 1.5;\rtab-size: 4;\rhyphens: none;\r}\rpre[class*=\u0026#34;language-\u0026#34;]::selection,\rcode::selection {\rtext-shadow: none;\rbackground: #b3d4fc;\r}\r@media print {\rpre[class*=\u0026#34;language-\u0026#34;],\rcode {\rtext-shadow: none;\r}\r}\rpre[class*=\u0026#34;language-\u0026#34;] {\rpadding: 1em;\rmargin: .5em 0;\roverflow: auto;\rbackground: #f8f5ec;\r}\r:not(pre) \u0026gt; code {\rpadding: .1em .3em;\rborder-radius: .3em;\rcolor: #db4c69;\rbackground: #f9f2f4;\r}\r  "
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/blogging/",
-	"title": "Blogging",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/ctest/",
-	"title": "cTest",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/development/",
-	"title": "Development",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/fast/",
-	"title": "fast",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/go/",
-	"title": "Go",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/series/go-web-dev/",
-	"title": "Go Web Dev",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/note-1/",
-	"title": "Note-1",
-	"tags": ["Development", "Go", "fast", "Blogging"],
-	"categories": [],
-	"series": ["Go Web Dev"],
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-	"content": "post-1 content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec. Quisque metus tellus, tincidunt eu consequat consequat, placerat sed ante. Cras pulvinar eros ex, vel luctus eros viverra sed. Donec nec quam aliquam, ultricies neque sed, sollicitudin lorem. Aenean faucibus, velit et facilisis semper, leo tellus pellentesque orci, non suscipit libero ipsum sed lacus. Fusce pharetra arcu sed tellus convallis, vel hendrerit turpis rhoncus.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/note-2/",
-	"title": "Note-2",
-	"tags": ["Go", "fast", "Blogging"],
-	"categories": [],
-	"series": ["Go Web Dev"],
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis,",
-	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/note-3/",
-	"title": "Note-3",
-	"tags": ["Development", "Go", "fast"],
-	"categories": [],
-	"series": ["Go Web Dev"],
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis,",
-	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1/",
-	"title": "Go 1",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "Go 1 Description",
-	"content": "Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.\nVeniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/go/go-1/go-2/",
-	"title": "Go 2",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "Go 2 Description",
-	"content": "Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.\nVeniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/go/go-4/",
-	"title": "Go 4",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "Go 4 Description",
-	"content": "Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.\nVeniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/",
-	"title": "Go 5",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "Go 5 Description",
-	"content": "Dolore in consectetur irure qui laborum. Adipisicing cillum ad laboris dolor. Quis consectetur ullamco esse ad mollit anim sint nostrud esse. Irure voluptate ex fugiat voluptate ea fugiat laboris.\nVeniam deserunt ex ullamco laboris et elit culpa enim. Irure ipsum dolore sint nisi aliquip labore fugiat magna esse ad nostrud in. Eu aliqua mollit tempor proident pariatur voluptate.\n"
-},
-{
-	"uri": "https://hhjian666.github.io/en/notes/sublist/",
-	"title": "Sub List",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "Note Sub List",
-	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget enim lobortis, bibendum massa et, bibendum enim. Nunc eu augue quis ante porta sodales. Mauris vel faucibus magna, dictum sagittis dolor. Nam scelerisque malesuada efficitur. Donec consequat sodales justo, ut aliquam ligula maximus nec.\n"
 }]
