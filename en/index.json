@@ -36,15 +36,6 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/windows/",
-	"title": "windows",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/tags/windows/",
 	"title": "windows",
 	"tags": [],
@@ -55,6 +46,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/windows/",
 	"title": "windows",
 	"tags": [],
 	"categories": [],
@@ -189,7 +189,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/themes/",
+	"uri": "https://hhjian666.github.io/en/tags/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
@@ -198,7 +198,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/themes/",
+	"uri": "https://hhjian666.github.io/en/categories/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
