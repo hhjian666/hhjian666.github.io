@@ -36,6 +36,24 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/windows/%E8%BF%9E%E6%8E%A5%E5%88%B0%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8/",
+	"title": "连接到远程服务器",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "windows连接到远程服务器",
+	"content": " win + R，mstsc 服务器ip地址 用户名+密码  百度经验\n"
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/tags/windows/",
 	"title": "windows",
 	"tags": [],
@@ -46,15 +64,6 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/windows/",
-	"title": "windows",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/windows/",
 	"title": "windows",
 	"tags": [],
 	"categories": [],
@@ -189,7 +198,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/themes/",
+	"uri": "https://hhjian666.github.io/en/categories/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
@@ -198,7 +207,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/themes/",
+	"uri": "https://hhjian666.github.io/en/tags/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
