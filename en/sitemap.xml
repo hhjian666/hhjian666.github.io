@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/</loc>
-    <lastmod>2019-12-31T16:32:49+08:00</lastmod>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/categories/</loc>
-    <lastmod>2019-12-31T16:32:49+08:00</lastmod>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/series/</loc>
-    <lastmod>2019-12-31T16:32:49+08:00</lastmod>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/tags/</loc>
-    <lastmod>2019-12-31T16:32:49+08:00</lastmod>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -63,22 +63,32 @@
   </url>
   
   <url>
+    <loc>https://hhjian666.github.io/en/recommends/%E5%80%BC%E5%BE%97%E5%93%81%E8%AF%BB%E7%9A%84%E8%91%97%E4%BD%9C/</loc>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/series/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hhjian666.github.io/en/recommends/%E6%9C%88%E4%BA%AE%E5%92%8C%E5%85%AD%E4%BE%BF%E5%A3%AB/</loc>
     <lastmod>2019-12-31T16:32:49+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/tags/%E8%AF%AD%E5%BD%95/</loc>
-    <lastmod>2019-12-31T16:32:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/categories/%E8%AF%BB%E4%B9%A6/</loc>
-    <lastmod>2019-12-31T16:32:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/series/%E8%AF%BB%E4%B9%A6/</loc>
     <lastmod>2019-12-31T16:32:49+08:00</lastmod>
   </url>
   
@@ -108,12 +118,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/web/</loc>
+    <loc>https://hhjian666.github.io/en/categories/web/</loc>
     <lastmod>2019-12-31T09:25:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/web/</loc>
+    <loc>https://hhjian666.github.io/en/tags/web/</loc>
     <lastmod>2019-12-31T09:25:28+08:00</lastmod>
   </url>
   
@@ -128,17 +138,17 @@
   </url>
   
   <url>
+    <loc>https://hhjian666.github.io/en/categories/python/</loc>
+    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hhjian666.github.io/en/series/python/</loc>
     <lastmod>2019-12-30T21:29:02+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/tags/python/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/categories/python/</loc>
     <lastmod>2019-12-30T21:29:02+08:00</lastmod>
   </url>
   
@@ -153,12 +163,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/series/windows/</loc>
+    <loc>https://hhjian666.github.io/en/tags/windows/</loc>
     <lastmod>2019-12-30T20:16:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/windows/</loc>
+    <loc>https://hhjian666.github.io/en/series/windows/</loc>
     <lastmod>2019-12-30T20:16:47+08:00</lastmod>
   </url>
   
@@ -253,12 +263,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/themes/</loc>
+    <loc>https://hhjian666.github.io/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/themes/</loc>
+    <loc>https://hhjian666.github.io/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
