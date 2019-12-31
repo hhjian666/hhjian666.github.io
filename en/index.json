@@ -36,8 +36,17 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/%E8%AF%BB%E4%B9%A6/",
-	"title": "读书",
+	"uri": "https://hhjian666.github.io/en/recommends/%E6%9C%88%E4%BA%AE%E5%92%8C%E5%85%AD%E4%BE%BF%E5%A3%AB/",
+	"title": "月亮和六便士",
+	"tags": ["语录"],
+	"categories": [],
+	"series": ["读书"],
+	"description": "《月亮和六便士》中30条语录",
+	"content": "《月亮和六便士》\r1、那些人的光环来自他们的职位，而非自身的本事。P3\n2、每天做两件自己讨厌的事对灵魂是有好处的。P9\n3、钟摆甩过去又荡回来。这个过程永远往复无休。P10\n4、文明人的行为真是奇怪，居然愿意把短暂的生命浪费给这些无聊的应酬。P23\n5、大海是如此平静，如此沉默，如此默然，乃至你突然感到莫名的焦躁。P26\n6、其实许多人的面目都是这么模糊的，他们生活在有机体之内，又跳不出体制窠臼，慢慢地也就泯然众人矣。P27\n7、在女人的生活中，别人的看法发挥着至关重要的作用。P41\n8、只有诗人和圣徒才会坚定不移地相信沥青路上能种出百合花来。P57\n9、只有女人才有本事以永不衰竭的热情把相同的话说上三遍。P57\n10、渴望得到认可也许是文明人最根深蒂固的本能。P61\n11、如果有人告诉我他们完全无视别人的看法，那我是不相信的。这是一种无知的虚张声势。P62\n12、就像法国谚语说的，情感有着理想无法领会的理由。P67\n13、我尚未明白人性是多么错综复杂。现在我清楚地认识到，卑鄙和高尚、凶恶和仁慈、曾恨和爱恋是能够并存于同一颗人类的心灵的。P69\n14、痛苦使人高尚这种说法并不符合事实，幸福偶尔会使人高尚，但至于痛苦，在大多数情况下，只会使人卑鄙和恶毒。P74\n15、如果你觉得一个人的观点跟你两便士的关系都没有，你怎么还会在乎一群人的看法呢？P91\n16、我不想从前。最重要的是永恒的此刻。P93\n17、我觉得如果你在谈恋爱额时候还讲自尊心，那原因只有一个，其实你最爱的还是你自己。P129\n18、爱需要有自甘示弱的姿态，有保护对方的愿望，有乐于奉献的精神，有取悦别人的心理——总而言之，爱需要无私忘我，或者至少需要把自私隐藏得不露痕迹，而且爱也需要矜持。P134\n19、像斯特里克兰那种人，也许会有特殊的恋爱方式吧。想对他的感情进行分析是徒劳无功的。P135\n20、当人的外表和他的灵魂如此不相称，那是很苦恼的事情。P138\n21、他的思维沉浸在那些本来可能出现的画面里，他曾经拒绝的这种安稳生活如今让他感到非常向往。P157\n22、作家更为关注的是去认识，而不是去评判。P170\n23、要意识到生活的罗曼蒂克情调，你必须有点像演员，你必须能够站在身外看待自己，既超脱又投入地观察自己的行动。P185\n24、普遍而言，爱情只是男人生活中的插曲，是和日常生活中的其他事务并存的；但小说往往会对爱情大加渲染，使它具备了与现实不符的重要性。P187\n25、你永远认不清男人的真面目，除非你跟他一起生活过。P222\n26、人要是被爱情迷住了心窍，就会对世上其他事物充耳不闻，视若无睹。P323\n27、有些人非常渴求真理，为了得到它，他们不惜彻底毁掉自己的生活。P232\n28、“你是我的男人，我是你的女人。你去哪里，我也去哪里。”P239\n29、他从来不抱怨自己的命运，他从来没有失去勇气。在临死的时候，他的精神依然安详而宁静。P249\n30、他已经达到了他梦想的境界。他的生活已经完满。他创造了一个世界，看到那个世界的美好。然后，他既骄傲又轻蔑地摧毁了它。P250\nReference：\r https://www.jianshu.com/p/d30a7cae345d  "
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/%E8%AF%AD%E5%BD%95/",
+	"title": "语录",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -46,6 +55,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/categories/%E8%AF%BB%E4%B9%A6/",
+	"title": "读书",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/series/%E8%AF%BB%E4%B9%A6/",
 	"title": "读书",
 	"tags": [],
 	"categories": [],
@@ -99,7 +117,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/web/",
+	"uri": "https://hhjian666.github.io/en/tags/web/",
 	"title": "web",
 	"tags": [],
 	"categories": [],
@@ -108,7 +126,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/web/",
+	"uri": "https://hhjian666.github.io/en/categories/web/",
 	"title": "web",
 	"tags": [],
 	"categories": [],
@@ -171,6 +189,15 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/categories/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/series/windows/",
 	"title": "windows",
 	"tags": [],
@@ -181,15 +208,6 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/tags/windows/",
-	"title": "windows",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/windows/",
 	"title": "windows",
 	"tags": [],
 	"categories": [],
