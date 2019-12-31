@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>http on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/tags/http/</link>
+    <description>Recent content in http on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 31 Dec 2019 09:25:28 +0800</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Http协议的状态码</title>
+        <link>https://hhjian666.github.io/en/programs/web/http%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%8A%B6%E6%80%81%E7%A0%81/</link>
+        <pubDate>Tue, 31 Dec 2019 09:25:28 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/web/http%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%8A%B6%E6%80%81%E7%A0%81/</guid>
+        <description>1xx（临时响应） 表示临时响应并需要请求者继续执行操作的状态码。 100（继续） 请求者应当继续提出请求。服务器返回此代码表示已收到请求的第一部</description>
+      </item>
+      
+    
+  </channel>
+</rss>

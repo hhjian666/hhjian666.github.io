@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/categories/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -33,33 +33,18 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/idle/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+    <loc>https://hhjian666.github.io/en/tags/http/</loc>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/programs/python/idle%E6%B8%85%E5%B1%8F/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/series/python/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/categories/python/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hhjian666.github.io/en/tags/python/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+    <loc>https://hhjian666.github.io/en/programs/web/http%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%8A%B6%E6%80%81%E7%A0%81/</loc>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/series/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -74,7 +59,7 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/tags/</loc>
-    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -85,6 +70,46 @@
                 hreflang="en"
                 href="https://hhjian666.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/series/web/</loc>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/web/</loc>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/web/</loc>
+    <lastmod>2019-12-31T09:25:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/idle/</loc>
+    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/python/idle%E6%B8%85%E5%B1%8F/</loc>
+    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/python/</loc>
+    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/python/</loc>
+    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/series/python/</loc>
+    <lastmod>2019-12-30T21:29:02+08:00</lastmod>
   </url>
   
   <url>
@@ -354,6 +379,11 @@
   
   <url>
     <loc>https://hhjian666.github.io/en/recommends/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/web/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
