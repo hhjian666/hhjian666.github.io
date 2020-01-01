@@ -465,29 +465,36 @@
 <h3>dict 和 list</h3>
 <p>dict内部存放的顺序和key放入的顺序是没有关系的。</p>
 <p>和list比较，dict有以下几个特点：</p>
-1. 查找和插入的速度极快，不会随着key的增加而增加；
-2. 需要占用大量的内存，内存浪费多。
+<p><ol>
+    <li>查找和插入的速度极快，不会随着key的增加而增加；</li>
+    <li>需要占用大量的内存，内存浪费多。</li>
+</ol></p>
 <p>而list相反：</p>
-1. 查找和插入的时间随着元素的增加而增加；
-2. 占用空间小，浪费内存很少。
+<p><ol><li>查找和插入的时间随着元素的增加而增加；</li>
+    <li>占用空间小，浪费内存很少。</li></ol></p>
 <p>所以，dict是用空间来换取时间的一种方法。</p>
 <h3>dict常用方法</h3>
-- **clear()**：从字典中删除所有项
-- **copy()**：创建并返回字典的一个浅拷贝（深层浅拷贝）
-- **get(key [ , returnValue])**：返回key对应的值；如果key不在字典中，同时指定了returnValue，就返回指定的值。如果没有指定returnValue，就返回none。
-- **has_key(key)**：如果key在字典中，就返回1，否则返回0
-- **items()**：返回一个由元组构成的列表，每个元组包含一个键-值对
-- **keys()**：返回字典中所有键的列表
-- **values()**：返回字典所有值的一个列表
-- 删除任意键-值对，并作为两个元素的一个元组返回。如果字典为空，会产生KeyError异常
-- **update(newdic)**：将来自newdic的所有键-值对添加到当前字典中，并覆盖同名键的值
-- **pop(key)**：指定key 删除对应的value
-- **fromkeys(seq[, value]))**：将seq中的元素作为key，返回一个字段。对应的value为可选的，默认为None
-- **iterkeys()**：返回字典键的一个迭代器
-- **itervalues()**：返回字典值得一个迭代器
-- **iteritems()**：返回键-值对的一个迭代器
+<ul>
+<li><strong>clear()</strong>：从字典中删除所有项</li>
+<li><strong>copy()</strong>：创建并返回字典的一个浅拷贝（深层浅拷贝）</li>
+<li><strong>get(key [ , returnValue])</strong>：返回key对应的值；如果key不在字典中，同时指定了returnValue，就返回指定的值。如果没有指定returnValue，就返回none。</li>
+<li><strong>has_key(key)</strong>：如果key在字典中，就返回1，否则返回0</li>
+<li><strong>items()</strong>：返回一个由元组构成的列表，每个元组包含一个键-值对</li>
+<li><strong>keys()</strong>：返回字典中所有键的列表</li>
+<li><strong>values()</strong>：返回字典所有值的一个列表</li>
+<li><strong>popitem()</strong>：删除任意键-值对，并作为两个元素的一个元组返回。如果字典为空，会产生KeyError异常</li>
+<li><strong>update(newdic)</strong>：将来自newdic的所有键-值对添加到当前字典中，并覆盖同名键的值</li>
+<li><strong>pop(key)</strong>：指定key 删除对应的value</li>
+<li><strong>fromkeys(seq[, value]))</strong>：将seq中的元素作为key，返回一个字段。对应的value为可选的，默认为None</li>
+<li><strong>iterkeys()</strong>：返回字典键的一个迭代器</li>
+<li><strong>itervalues()</strong>：返回字典值得一个迭代器</li>
+<li><strong>iteritems()</strong>：返回键-值对的一个迭代器</li>
+</ul>
 <h3>Reference</h3>
-1. https://www.cnblogs.com/wshenjin/articles/7192153.html?tdsourcetag=s_pctim_aiomsg
+<ol>
+<li><a href="https://www.cnblogs.com/wshenjin/articles/7192153.html?tdsourcetag=s_pctim_aiomsg">https://www.cnblogs.com/wshenjin/articles/7192153.html?tdsourcetag=s_pctim_aiomsg</a></li>
+</ol>
+
     </article>
     
     
