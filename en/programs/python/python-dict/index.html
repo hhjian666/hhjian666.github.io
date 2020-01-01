@@ -218,7 +218,7 @@
     "dateModified": "2019-12-31T18:22:08+08:00",
     "url" : "https://hhjian666.github.io/en/programs/python/python-dict/",
     "description": "python-dic 字典知识",
-    "keywords": [""],
+    "keywords": ["dict","python"],
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://hhjian666.github.io/"
@@ -428,7 +428,7 @@
     <h2 class="single__title">Python Dict</h2>
     <div class="single__meta">
       <div class="single__infos">
-  <span class="single__info" title="Written At">🕓Dec 31, 2019 </span>  &middot; <span class="single__info" title="Reading Time"> ☕0 min read </span>
+  <span class="single__info" title="Written At">🕓Dec 31, 2019 </span>  &middot; <span class="single__info" title="Reading Time"> ☕2 min read </span>
   <span class="single__info">
     
   </span>
@@ -436,12 +436,58 @@
       <div class="single__tags caption">
 
   
+    🏷️
+  
+  
+  <li>
+    <a href="/en/tags/dict" class="single__tag" title="dict">
+      #dict
+    </a>
+  </li>
+    
+
+  
+  
+  <li>
+    <a href="/en/tags/python" class="single__tag" title="python">
+      #python
+    </a>
+  </li>
     
 
 </div>
     </div>    
     <article class="single__contents">
-      
+      <h3>字典 dict</h3>
+<p>字典是Python的另一种有序的可变数据结构，且可存储任意类型对象。</p>
+<p>字典是一种键值对的数据容器，每个键值(key：value)对用冒号(:)分割，每个对之间用逗号(,)分割，整个字典包括在花括号“{}”中。键和值两者一一对应，与表不同的是，词典的元素没有顺序，不能通过下标引用元素。字典是通过键来引用。</p>
+<p>字典中的键必须是唯一的同时不可变的，值则没有限制。</p>
+<h3>dict 和 list</h3>
+<p>dict内部存放的顺序和key放入的顺序是没有关系的。</p>
+<p>和list比较，dict有以下几个特点：</p>
+1. 查找和插入的速度极快，不会随着key的增加而增加；
+2. 需要占用大量的内存，内存浪费多。
+<p>而list相反：</p>
+1. 查找和插入的时间随着元素的增加而增加；
+2. 占用空间小，浪费内存很少。
+<p>所以，dict是用空间来换取时间的一种方法。</p>
+<h3>dict常用方法</h3>
+- **clear()**：从字典中删除所有项
+- **copy()**：创建并返回字典的一个浅拷贝（深层浅拷贝）
+- **get(key [ , returnValue])**：返回key对应的值；如果key不在字典中，同时指定了returnValue，就返回指定的值。如果没有指定returnValue，就返回none。
+- **has_key(key)**：如果key在字典中，就返回1，否则返回0
+- **items()**：返回一个由元组构成的列表，每个元组包含一个键-值对
+- **keys()**：返回字典中所有键的列表
+- **values()**：返回字典所有值的一个列表
+- 删除任意键-值对，并作为两个元素的一个元组返回。如果字典为空，会产生KeyError异常
+- **update(newdic)**：将来自newdic的所有键-值对添加到当前字典中，并覆盖同名键的值
+- **pop(key)**：指定key 删除对应的value
+- **fromkeys(seq[, value]))**：将seq中的元素作为key，返回一个字段。对应的value为可选的，默认为None
+- **iterkeys()**：返回字典键的一个迭代器
+- **itervalues()**：返回字典值得一个迭代器
+- **iteritems()**：返回键-值对的一个迭代器
+<h3>Reference</h3>
+1. https://www.cnblogs.com/wshenjin/articles/7192153.html?tdsourcetag=s_pctim_aiomsg
     </article>
     
     
@@ -549,23 +595,7 @@
     <ul class="related-ul">
         
         <li>
-          <a href="/en/posts/test-viz/" class="related__link">Viz support</a>
-        </li>
-        
-        <li>
-          <a href="/en/posts/test-wavedrom/" class="related__link">Wavedrom support</a>
-        </li>
-        
-        <li>
-          <a href="/en/posts/test-chartjs/" class="related__link">Chart support</a>
-        </li>
-        
-        <li>
-          <a href="/en/posts/test-js-sequence-diagrams/" class="related__link">JS Sequence Diagram support</a>
-        </li>
-        
-        <li>
-          <a href="/en/posts/test-mathjax/" class="related__link">MathJax support</a>
+          <a href="/en/programs/python/idle%E6%B8%85%E5%B1%8F/" class="related__link">IDLE清屏</a>
         </li>
         
     </ul>

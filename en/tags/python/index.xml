@@ -9,12 +9,21 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 30 Dec 2019 21:29:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 18:22:08 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Python Dict</title>
+        <link>https://hhjian666.github.io/en/programs/python/python-dict/</link>
+        <pubDate>Tue, 31 Dec 2019 18:22:08 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/python-dict/</guid>
+        <description>字典 dict 字典是Python的另一种有序的可变数据结构，且可存储任意类型对象。 字典是一种键值对的数据容器，每个键值(key：value)对用冒号</description>
+      </item>
       
       <item>
         <title>IDLE清屏</title>
