@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IDLE on Sinhaeng_Hhjian</title>
-    <link>https://hhjian666.github.io/en/tags/idle/</link>
-    <description>Recent content in IDLE on Sinhaeng_Hhjian</description>
+    <title>右键 on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/tags/%E5%8F%B3%E9%94%AE/</link>
+    <description>Recent content in 右键 on Sinhaeng_Hhjian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 10:15:30 +0800</lastBuildDate>
     
-        <atom:link href="https://hhjian666.github.io/en/tags/idle/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hhjian666.github.io/en/tags/%E5%8F%B3%E9%94%AE/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,15 +23,6 @@
         <author>1109647326@qq.com (hhjian)</author>
         <guid>https://hhjian666.github.io/en/programs/python/%E5%8F%B3%E9%94%AEidle%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80/</guid>
         <description>1、手动添加到注册表 win+R：regedit，HKEY_CLASSES_ROOT/SystemFileAssociations，右键单击S</description>
-      </item>
-      
-      <item>
-        <title>IDLE清屏</title>
-        <link>https://hhjian666.github.io/en/programs/python/idle%E6%B8%85%E5%B1%8F/</link>
-        <pubDate>Mon, 30 Dec 2019 21:29:02 +0800</pubDate>
-        <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/programs/python/idle%E6%B8%85%E5%B1%8F/</guid>
-        <description>第一种方法：清屏扩展ClearWindow 下载ClearWindow.py 放在Python安装目录Python XXX\Lib\idlelib</description>
       </item>
       
     

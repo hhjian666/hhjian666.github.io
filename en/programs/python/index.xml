@@ -17,6 +17,15 @@
     
       
       <item>
+        <title>右键IDLE方式打开</title>
+        <link>https://hhjian666.github.io/en/programs/python/%E5%8F%B3%E9%94%AEidle%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80/</link>
+        <pubDate>Fri, 03 Jan 2020 10:15:30 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/%E5%8F%B3%E9%94%AEidle%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80/</guid>
+        <description>1、手动添加到注册表 win+R：regedit，HKEY_CLASSES_ROOT/SystemFileAssociations，右键单击S</description>
+      </item>
+      
+      <item>
         <title>Python Dict</title>
         <link>https://hhjian666.github.io/en/programs/python/python-dict/</link>
         <pubDate>Tue, 31 Dec 2019 18:22:08 +0800</pubDate>
