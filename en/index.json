@@ -69,7 +69,7 @@
 	"categories": [],
 	"series": ["python"],
 	"description": "对python库升级后，spyder无法打开",
-	"content": "1、更换Spyder版本\rC:\\Users\\Administrator\u0026gt;spyder \u0026ndash;new-instance\nspyder-kernels \u0026lt; 1.0 is required (found 1.8.1).#版本太高 不支持\npip install -U spyder\n2、删除某些文件\r删除：C:\\用户\\Administrator里面的.spyder-py3和.matplotlib文件，然后启动Spyder\n仅删除：C:\\用户\\Administrator里面的.spyder-py3文件，然后启动Spyder\n3、重新安装Spyder\rconda install spyder\n4、安装PyQt5-tools\rpip install PyQt5-tools\n5、安装spyder-kernels\rpip install spyder-kernels==0.*\n6、安装pywin32\rpywin32-221.win-amd64-py3.7.exe\nReference\r https://zhidao.baidu.com/question/1388303482808084020.html https://blog.csdn.net/dugushangliang/article/details/90510589 https://blog.csdn.net/weixin_43575157/article/details/95732910 https://blog.csdn.net/weixin_41688854/article/details/89632779 https://blog.csdn.net/qq_41683065/article/details/99710373 https://github.com/spyder-ide/spyder/issues/7395  "
+	"content": "1、更换Spyder版本\rC:\\Users\\Administratorspyder --new-instance\rspyder-kernels \u0026lt; 1.0 is required (found 1.8.1).#版本太高 不支持\npip install -U spyder\n2、删除某些文件\r删除：C:\\用户\\Administrator里面的.spyder-py3和.matplotlib文件，然后启动Spyder\r仅删除：C:\\用户\\Administrator里面的.spyder-py3文件，然后启动Spyder\n3、重新安装Spyder\rconda install spyder\r4、安装PyQt5-tools\rpip install PyQt5-tools\r5、安装spyder-kernels\rpip install spyder-kernels==0.*\r6、安装pywin32\rpywin32-221.win-amd64-py3.7.exe\rReference\r1. https://zhidao.baidu.com/question/1388303482808084020.html\r2. https://blog.csdn.net/dugushangliang/article/details/90510589\r3. https://blog.csdn.net/weixin_43575157/article/details/95732910\r4. https://blog.csdn.net/weixin_41688854/article/details/89632779\r5. https://blog.csdn.net/qq_41683065/article/details/99710373\r6. https://github.com/spyder-ide/spyder/issues/7395"
 },
 {
 	"uri": "https://hhjian666.github.io/en/tags/",
@@ -180,7 +180,7 @@
 	"content": "为了区分MYSQL的保留字与普通字符而引入的符号\nSELECT `select` FROM `test` WHERE select='字段值'\n在test表中，有个select字段，如果不用反引号，MYSQL将把select视为保留字而导致出错，所以，有MYSQL保留字作为字段的，必须加上反引号来区分。\n不加反引号建的表不能包含MYSQL保留字，否则出错。\n   ADD ALL ALTER     ANALYZE AND AS   ASC ASENSITIVE BEFORE   BETWEEN BIGINT BINARY   BLOB BOTH BY   CALL CASCADE CASE   CHANGE CHAR CHARACTER   CHECK COLLATE COLUMN   CONDITION CONNECTION CONSTRAINT   CONTINUE CONVERT CREATE   CROSS CURRENT_DATE CURRENT_TIME   CURRENT_TIMESTAMP CURRENT_USER CURSOR   DATABASE DATABASES DAY_HOUR   DAY_MICROSECOND DAY_MINUTE DAY_SECOND   DEC DECIMAL DECLARE   DEFAULT DELAYED DELETE   DESC DESCRIBE DETERMINISTIC   DISTINCT DISTINCTROW p   DOUBLE DROP DUAL   EACH ELSE ELSEIF   ENCLOSED ESCAPED EXISTS   EXIT EXPLAIN FALSE   FETCH FLOAT FLOAT4   FLOAT8 FOR FORCE   FOREIGN FROM FULLTEXT   GOTO GRANT GROUP   HAVING HIGH_PRIORITY HOUR_MICROSECOND   HOUR_MINUTE HOUR_SECOND IF   IGNORE IN INDEX   INFILE INNER INOUT   INSENSITIVE INSERT INT   INT1 INT2 INT3   INT4 INT8 INTEGER   INTERVAL INTO IS   ITERATE JOIN KEY   KEYS KILL LABEL   LEADING LEAVE LEFT   LIKE LIMIT LINEAR   LINES LOAD LOCALTIME   LOCALTIMESTAMP LOCK LONG   LONGBLOB LONGTEXT LOOP   LOW_PRIORITY MATCH MEDIUMBLOB   MEDIUMINT MEDIUMTEXT MIDDLEINT   MINUTE_MICROSECOND MINUTE_SECOND MOD   MODIFIES NATURAL NOT   NO_WRITE_TO_BINLOG NULL NUMERIC   ON OPTIMIZE OPTION   OPTIONALLY OR ORDER   OUT OUTER OUTFILE   PRECISION PRIMARY PROCEDURE   PURGE RAID0 RANGE   READ READS REAL   REFERENCES REGEXP RELEASE   RENAME REPEAT REPLACE   REQUIRE RESTRICT RETURN   REVOKE RIGHT RLIKE   SCHEMA SCHEMAS SECOND_MICROSECOND   SELECT SENSITIVE SEPARATOR   SET SHOW SMALLINT   SPATIAL SPECIFIC SQL   SQLEXCEPTION SQLSTATE SQLWARNING   SQL_BIG_RESULT SQL_CALC_FOUND_ROWS SQL_SMALL_RESULT   SSL STARTING STRAIGHT_JOIN   TABLE TERMINATED THEN   TINYBLOB TINYINT TINYTEXT   TO TRAILING TRIGGER   TRUE UNDO UNION   UNIQUE UNLOCK UNSIGNED   UPDATE USAGE USE   USING UTC_DATE UTC_TIME   UTC_TIMESTAMP VALUES VARBINARY   VARCHAR VARCHARACTER VARYING   WHEN WHERE WHILE   WITH WRITE X509   XOR YEAR_MONTH ZEROFILL    注：MySQL允许部分关键字用做未引起来的识别符，因为许多人以前曾使用过它们。如：ACTION、BIT、DATE、ENUM、NO、TEXT、TIME、TIMESTAMP。\nReference\r https://www.php.cn/mysql-tutorials-360443.html  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/c-c++/",
+	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
 	"title": "c-c++",
 	"tags": [],
 	"categories": [],
@@ -198,7 +198,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
+	"uri": "https://hhjian666.github.io/en/series/c-c++/",
 	"title": "c-c++",
 	"tags": [],
 	"categories": [],
@@ -324,7 +324,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/%E8%BE%93%E5%85%A5%E6%B3%95/",
+	"uri": "https://hhjian666.github.io/en/tags/%E8%BE%93%E5%85%A5%E6%B3%95/",
 	"title": "输入法",
 	"tags": [],
 	"categories": [],
@@ -333,7 +333,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/%E8%BE%93%E5%85%A5%E6%B3%95/",
+	"uri": "https://hhjian666.github.io/en/categories/%E8%BE%93%E5%85%A5%E6%B3%95/",
 	"title": "输入法",
 	"tags": [],
 	"categories": [],
@@ -414,15 +414,6 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/html/",
-	"title": "html",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/series/html/",
 	"title": "html",
 	"tags": [],
@@ -433,6 +424,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/tags/html/",
+	"title": "html",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],
