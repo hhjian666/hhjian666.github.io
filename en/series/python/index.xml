@@ -9,12 +9,21 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 11:18:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 14:46:56 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/series/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>更新库</title>
+        <link>https://hhjian666.github.io/en/programs/python/%E6%9B%B4%E6%96%B0%E5%BA%93/</link>
+        <pubDate>Fri, 03 Jan 2020 14:46:56 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/%E6%9B%B4%E6%96%B0%E5%BA%93/</guid>
+        <description>pip list #列出所有安装的库 python -m pip install &amp;ndash;upgrade pip #更新pip pip list &amp;ndash;outdated #列出所有过期的库 pip install &amp;ndash;upgrade 库名 #更新某个库 命令行python #更新所有库 import pip from subprocess import call for dist in</description>
+      </item>
       
       <item>
         <title>深拷贝和浅拷贝</title>
