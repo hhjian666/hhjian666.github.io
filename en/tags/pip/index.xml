@@ -22,7 +22,7 @@
         <pubDate>Fri, 03 Jan 2020 14:46:56 +0800</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
         <guid>https://hhjian666.github.io/en/programs/python/%E6%9B%B4%E6%96%B0%E5%BA%93/</guid>
-        <description>pip list #列出所有安装的库 python -m pip install &amp;ndash;upgrade pip #更新pip pip list &amp;ndash;outdated #列出所有过期的库 pip install &amp;ndash;upgrade 库名 #更新某个库 命令行python #更新所有库 import pip from subprocess import call for dist in</description>
+        <description>pip list #列出 所有安装的库 python -m pip install &amp;ndash;upgrade pip #更新pip pip list &amp;ndash;outdated #列出所有过期的库 pip install &amp;ndash;upgrade 库名 #更新某个库 命令行python #更新所有库 import pip from subprocess import call for dist in</description>
       </item>
       
     
