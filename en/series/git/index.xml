@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/series/git/</link>
+    <description>Recent content in git on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 15:53:48 +0800</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/series/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Add Lf警告</title>
+        <link>https://hhjian666.github.io/en/programs/git/add-lf%E8%AD%A6%E5%91%8A/</link>
+        <pubDate>Fri, 03 Jan 2020 15:53:48 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/git/add-lf%E8%AD%A6%E5%91%8A/</guid>
+        <description>Windows中的换行符为CRLF，linux中的换行符为LF 回车（Carriage-Return，ASCII码 13 \r），换行 （Line-F</description>
+      </item>
+      
+    
+  </channel>
+</rss>
