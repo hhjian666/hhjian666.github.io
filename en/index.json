@@ -18,7 +18,70 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/mysql/",
+	"uri": "https://hhjian666.github.io/en/tags/python/",
+	"title": "python",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/series/python/",
+	"title": "python",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/python/",
+	"title": "python",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/series/",
+	"title": "Series",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/%E6%8B%B7%E8%B4%9D/",
+	"title": "拷贝",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/programs/python/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D/",
+	"title": "深拷贝和浅拷贝",
+	"tags": ["拷贝", "python"],
+	"categories": [],
+	"series": ["python"],
+	"description": "在python学习中出现了不同的拷贝方式",
+	"content": "在python中，对象赋值实际上是对象的引用。当创建一个对象，然后把它赋给另一个变量的时候，python并没有拷贝这个对象，而只是拷贝了这个对象的引用。\n1  alist=[1,2,3,[\u0026#34;a\u0026#34;,\u0026#34;b\u0026#34;]]\r  1、直接赋值（浅拷贝）\r默认浅拷贝传递对象的引用而已,原始列表改变，被赋值的b也会做相同的改变\n1 2 3 4 5 6 7 8  \u0026gt;\u0026gt;\u0026gt; b=alist\r\u0026gt;\u0026gt;\u0026gt; print b\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print b\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r  2、copy拷贝（深层浅拷贝）\r没有拷贝子对象，所以原始数据改变，子对象会改变\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  \u0026gt;\u0026gt;\u0026gt; import copy\r\u0026gt;\u0026gt;\u0026gt; c=copy.copy(alist)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist[3]\r[\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]\r\u0026gt;\u0026gt;\u0026gt; alist[3].append(\u0026#39;cccc\u0026#39;)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;cccc\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;cccc\u0026#39;]]\r  3、深拷贝\r包含对象里面的自对象的拷贝，所以原始对象的改变不会造成深拷贝里任何子元素的改变\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  \u0026gt;\u0026gt;\u0026gt; import copy\r\u0026gt;\u0026gt;\u0026gt; d=copy.deepcopy(alist)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist[3]\r[\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]\r\u0026gt;\u0026gt;\u0026gt; alist[3].append(\u0026#34;ccccc\u0026#34;)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;ccccc\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r  Reference\r https://www.cnblogs.com/xueli/articles/4952063.html?tdsourcetag=s_pctim_aiomsg  "
+},
+{
+	"uri": "https://hhjian666.github.io/en/series/mysql/",
 	"title": "mysql",
 	"tags": [],
 	"categories": [],
@@ -27,7 +90,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/mysql/",
+	"uri": "https://hhjian666.github.io/en/categories/mysql/",
 	"title": "mysql",
 	"tags": [],
 	"categories": [],
@@ -54,24 +117,6 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/",
-	"title": "Series",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/",
-	"title": "Tags",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/tags/%E5%8F%8D%E5%BC%95%E5%8F%B7/",
 	"title": "反引号",
 	"tags": [],
@@ -90,7 +135,7 @@
 	"content": "为了区分MYSQL的保留字与普通字符而引入的符号\nSELECT `select` FROM `test` WHERE select='字段值'\n在test表中，有个select字段，如果不用反引号，MYSQL将把select视为保留字而导致出错，所以，有MYSQL保留字作为字段的，必须加上反引号来区分。\n不加反引号建的表不能包含MYSQL保留字，否则出错。\n   ADD ALL ALTER     ANALYZE AND AS   ASC ASENSITIVE BEFORE   BETWEEN BIGINT BINARY   BLOB BOTH BY   CALL CASCADE CASE   CHANGE CHAR CHARACTER   CHECK COLLATE COLUMN   CONDITION CONNECTION CONSTRAINT   CONTINUE CONVERT CREATE   CROSS CURRENT_DATE CURRENT_TIME   CURRENT_TIMESTAMP CURRENT_USER CURSOR   DATABASE DATABASES DAY_HOUR   DAY_MICROSECOND DAY_MINUTE DAY_SECOND   DEC DECIMAL DECLARE   DEFAULT DELAYED DELETE   DESC DESCRIBE DETERMINISTIC   DISTINCT DISTINCTROW p   DOUBLE DROP DUAL   EACH ELSE ELSEIF   ENCLOSED ESCAPED EXISTS   EXIT EXPLAIN FALSE   FETCH FLOAT FLOAT4   FLOAT8 FOR FORCE   FOREIGN FROM FULLTEXT   GOTO GRANT GROUP   HAVING HIGH_PRIORITY HOUR_MICROSECOND   HOUR_MINUTE HOUR_SECOND IF   IGNORE IN INDEX   INFILE INNER INOUT   INSENSITIVE INSERT INT   INT1 INT2 INT3   INT4 INT8 INTEGER   INTERVAL INTO IS   ITERATE JOIN KEY   KEYS KILL LABEL   LEADING LEAVE LEFT   LIKE LIMIT LINEAR   LINES LOAD LOCALTIME   LOCALTIMESTAMP LOCK LONG   LONGBLOB LONGTEXT LOOP   LOW_PRIORITY MATCH MEDIUMBLOB   MEDIUMINT MEDIUMTEXT MIDDLEINT   MINUTE_MICROSECOND MINUTE_SECOND MOD   MODIFIES NATURAL NOT   NO_WRITE_TO_BINLOG NULL NUMERIC   ON OPTIMIZE OPTION   OPTIONALLY OR ORDER   OUT OUTER OUTFILE   PRECISION PRIMARY PROCEDURE   PURGE RAID0 RANGE   READ READS REAL   REFERENCES REGEXP RELEASE   RENAME REPEAT REPLACE   REQUIRE RESTRICT RETURN   REVOKE RIGHT RLIKE   SCHEMA SCHEMAS SECOND_MICROSECOND   SELECT SENSITIVE SEPARATOR   SET SHOW SMALLINT   SPATIAL SPECIFIC SQL   SQLEXCEPTION SQLSTATE SQLWARNING   SQL_BIG_RESULT SQL_CALC_FOUND_ROWS SQL_SMALL_RESULT   SSL STARTING STRAIGHT_JOIN   TABLE TERMINATED THEN   TINYBLOB TINYINT TINYTEXT   TO TRAILING TRIGGER   TRUE UNDO UNION   UNIQUE UNLOCK UNSIGNED   UPDATE USAGE USE   USING UTC_DATE UTC_TIME   UTC_TIMESTAMP VALUES VARBINARY   VARCHAR VARCHARACTER VARYING   WHEN WHERE WHILE   WITH WRITE X509   XOR YEAR_MONTH ZEROFILL    注：MySQL允许部分关键字用做未引起来的识别符，因为许多人以前曾使用过它们。如：ACTION、BIT、DATE、ENUM、NO、TEXT、TIME、TIMESTAMP。\nReference\r https://www.php.cn/mysql-tutorials-360443.html  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
+	"uri": "https://hhjian666.github.io/en/tags/c-c++/",
 	"title": "c-c++",
 	"tags": [],
 	"categories": [],
@@ -99,7 +144,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/c-c++/",
+	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
 	"title": "c-c++",
 	"tags": [],
 	"categories": [],
@@ -128,33 +173,6 @@
 {
 	"uri": "https://hhjian666.github.io/en/tags/idle/",
 	"title": "IDLE",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/python/",
-	"title": "python",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/series/python/",
-	"title": "python",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/python/",
-	"title": "python",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -207,7 +225,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/%E7%94%9F%E6%B4%BB/",
+	"uri": "https://hhjian666.github.io/en/series/%E7%94%9F%E6%B4%BB/",
 	"title": "生活",
 	"tags": [],
 	"categories": [],
@@ -216,7 +234,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/%E7%94%9F%E6%B4%BB/",
+	"uri": "https://hhjian666.github.io/en/categories/%E7%94%9F%E6%B4%BB/",
 	"title": "生活",
 	"tags": [],
 	"categories": [],
@@ -261,7 +279,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/%E8%BE%93%E5%85%A5%E6%B3%95/",
+	"uri": "https://hhjian666.github.io/en/categories/%E8%BE%93%E5%85%A5%E6%B3%95/",
 	"title": "输入法",
 	"tags": [],
 	"categories": [],
@@ -270,7 +288,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/%E8%BE%93%E5%85%A5%E6%B3%95/",
+	"uri": "https://hhjian666.github.io/en/tags/%E8%BE%93%E5%85%A5%E6%B3%95/",
 	"title": "输入法",
 	"tags": [],
 	"categories": [],
@@ -306,7 +324,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/wps/",
+	"uri": "https://hhjian666.github.io/en/series/wps/",
 	"title": "wps",
 	"tags": [],
 	"categories": [],
@@ -315,7 +333,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/wps/",
+	"uri": "https://hhjian666.github.io/en/categories/wps/",
 	"title": "wps",
 	"tags": [],
 	"categories": [],
@@ -351,7 +369,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/html/",
+	"uri": "https://hhjian666.github.io/en/tags/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],
@@ -360,7 +378,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/html/",
+	"uri": "https://hhjian666.github.io/en/categories/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],
@@ -414,15 +432,6 @@
 	"content": "1、《家》 巴金\r家，是一个很温馨、很温暖的名词，它永远是我们避风的港湾，是我们不舍的牵挂。不管我们走到哪里，都会有一条隐形的线，从家里一直到我们手里，永远都不会断……而巴金的《家》却截然相反。\n本书是《激流三部曲》之一，是文学大师巴金的代表作，也是中国现代文学史上一部优秀的现实主义长篇巨制。小说以五四运动浪潮波及到的滞塞内地四川成都为背景，真实地描写了高公馆这个“诗礼传家”、“四世同堂”的封建大家庭的没落分化过程，揭露了封建专制的腐朽本质，控诉了封建家族制度、封建礼教和封建迷信的罪恶，颂赞年轻一代的反抗斗争精神。\n我始终记住：青春是美丽的东西，而且这一直是鼓舞我的源泉。 在巴金一切的作品中都满溢着纯洁的青春气息。《家》尤其浓厚。这种气息反映一颗单纯的心灵，读他的小说，你毫不感到是在绞汁写出来的，是唱出来的，呻吟出来的，是自然的天吁。这不是艺术，而是天赋。如他所说：“永生在青春的原野”。\n2、《许三观卖血记》 余华\r《许三观卖血记》入选韩国《中央日报》评选的“100部必读书”！中国百位批评家和文学编辑评选的“20世纪90年代最有影响的10部作品”。余华的每一部长篇小说，都震撼着一批又一批的读者。他的长篇小说是中国当代文学中的经典之作。是你不可错过的经典必读书目！\n本书以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，他哭了。法国《读书》杂志在评论《许三观卖血记》时说道：这是一部精妙绝伦的小说，是朴实简洁和内涵意蕴深远的完美结合。\n作者余华说：“这本书其实是一首很长的民歌，它的节奏是回忆的速度，旋律温和地跳跃着，休止符被韵脚隐藏了起来。” 让我们轻轻吟唱起这首民歌，走进这部颇具形式美感的文学作品，去体会中国近代贫苦老百姓们的苦难人生……\n3、《京华烟云》 林语堂\r林语堂最好的作品，关于现代中国社会的经典写作，四度获诺贝尔文学奖提名！现代版《红楼梦》，全景展现中国风云变幻的人文、社会和文化的史诗巨著，同名电视剧在央视曾一度热播！\n《京华烟云》全书讲述了北平曾、姚、牛三大家族从1901年义和团运动到抗日战争30多年问的悲欢离合和恩怨情仇，并在其中安插了袁世凯篡国、张勋复辟、直奉大战、军阀割据、“五四”动、“三·一八”案、“语丝派”与“现代评论派”笔战、青年“左倾”、二战爆发等历史事件。全书结构宏伟，线索交错，全景式展现了近代中国社会发生的急剧而深刻的变化，被誉为现代版的《红楼梦》。林语堂先生写作此书的目的是为了向不了解中国而鄙视中国的外国人展示真正的中国社会和文化，因此字里行间都渗透着他对本土文化的钟情以及列祖国深深的热爱。\n诚如作者所言，“本书曝呈中国的一切困恼纷扰，但由于此，也正表示我们对国家未尝放弃我们的希望！无需加以粉饰，她将调整她自己，一如过去历史上所昭示吾人者！诚盼此书将给予吾人以深刻的启示，将我们深植于往昔的根蒂，开出灿丽的鲜花！”\n4、《穆斯林的葬礼》 霍达\r最有生命力的茅盾文学奖经典作品！最纯洁的梦想、最凄美的爱情、最痛苦的命运！\n穆斯林，是指信奉伊斯兰教的神安拉的人。《穆斯林的葬礼》，是中国著名作家霍达所著的一部经典长篇小说。作品描写了我国回族一个穆斯林家族跨越六十年的历史兴衰和家族三代人的悲欢离合，描写了几段交错复杂的爱情纠葛，具有民族史诗的品格和不可替代的文学地位和审美价值。《穆斯林的葬礼》是我国第一部成功地表现回族人民悠久历史和现实生活的长篇小说，并于1991年获得第三届茅盾文学奖。\n“一道门，隔着两个世界。”一个是玉的世界，一个是月的世界。霍达用穿插的笔法，写下了如此震撼人心的一部作品，为我们展示了穆斯林独特的风俗习惯和人生历程，描绘了回族人民在“人生的舞台上，悲剧，喜剧，轮番演出，不舍昼夜，无尽无休……”的“演出”，体现了他们生生不息的强大的民族凝聚力和向心力。\n5、《红高粱》 莫言\r中国首位诺贝尔文学奖获得者，著名作家莫言作品。由郑晓龙执导，周迅、朱亚文、秦海璐、于荣光、黄轩等主演的电视剧《红高粱》经典原著。莫言生动的向我们展示了一个被人遗忘的农民世界。他知晓手工艺、冶炼技术、建筑、挖沟开渠、放牧和游击队的技巧并且知道如何描述。他似乎用笔尖描述了整个人生！\n小说主人公余占鳌是个热血男儿，正义又野蛮。他杀死了一个与自己守寡多年的母亲发生关系的和尚，而后母亲也吊死了。他为了女人杀人放火，霸占了后来成了他妻子的戴凤莲。他为了报仇雪耻，苦练枪法，将曾非礼过他妻子的土匪花脖子一伙一网打尽。他为了还一个村姑的清白，不惜将酒后施奸的亲叔枪毙。为了小妾恋儿不惜和妻子闹翻并分居。他为了民族大义，毅然抗日但最终全军覆没……他为了爱情而拼搏，为了报仇而残忍，为了正义而果决，为了荣誉而战……\n正如诺贝尔文学奖授奖词所描述的那样：莫言是个诗人，他扯下程式化的宣传画，使个人从茫茫无名大众中突出出来。他用嘲笑和讽刺的笔触，攻击历史和谬误以及贫乏和政治虚伪。他有技巧的揭露了人类最阴暗的页面，在不经意间给象征赋予了形象。莫言有着无与伦比的想象力。他很好的描绘了自然；他基本知晓所有与饥饿相关的事情；他向我们展示了一个没有真理、常识或者同情的世界，这个世界中的人鲁莽、无助且可笑。在莫言的小说世界里，品德和残酷交战，对阅读者来说这是一种文学探险。\n6、《小团圆》 张爱玲\r张爱玲最真实的私人生活！揭开《小团圆》背后的重重迷雾！打开张爱玲神秘的内心世界！全球3000万张迷翘首企盼。 张爱玲最神秘的小说遗稿，浓缩毕生心血的巅峰杰作。《小团圆》与张爱玲以往作品的风格迥然不同，是在多个时空交错中发生的故事。在她历史中过往来去的那些辛酸往事、现实人物，于此处实现了历史的团圆！\n西元二零零九年，暮春。沉寂有时的读书界热潮再起。一部名叫《小团圆》的书开始行世，行销海内外。而其中，核心的人物，是那位早已不可能在场的民国女子——张爱玲。一位早已谢世的人物，吸引如此多的耳目，实在是迄所罕见的。\n这一回，张爱玲在小说里讲的还是日本占领下的旧上海，一男一女两个主角是写爱情小说的作家盛九莉与“汪政府的官”邵之雍。某个晚上，九莉外出回家，“归途明月当头，她不禁一阵空虚。二十二岁了，写爱情故事，但是从来没恋爱过”。邵之雍因她的文采而来，她也崇拜他，“他走后一烟灰盘的烟蒂，她都拣了起来，收在一只旧信封里”。九莉几日不见之雍，如隔三秋，正以为“其患遂绝”，他又来了。看到她袖中手腕是那样瘦，他奇了。她自卫道：“其实我平常不是这么瘦。”他略怔了怔，道：“是为了我吗？”这层纸终于捅破了，“她红了脸低下头去”，“怎么也抬不起头来，有千斤重”。于是之雍说：“我们这是对半，无所谓追求。大概我走了六步，你走了四步。”“他迎上来吻她，她直溜下去跪在他跟前抱着他的腿，脸贴在他腿上。”\n7、《故事新编》 鲁迅\r《故事新编》是鲁迅先生以远古神话和历史传说为题材而写就的短篇小说集，包括他在不同时期所写的8篇作品。这八篇小说分别是：《补天》、《奔月》、《理水》、《采薇》、《铸剑》、《出关》、《非攻》、《起死》。外加一篇《序言》。这些作品的语言秉承鲁迅先生的一贯文风，幽默风趣，婉而多讽。故事的内容虽来源于历史，但只是用了一点因由，经作者随意点染，展现在我们眼前的却是一副绝妙奇趣的画卷。\n《故事新编》是鲁迅的最后的创新之作，里面8篇有5篇写于鲁迅生命的最后时期。面临死亡的威胁，处于内外交困、身心交瘁之中，《故事新编》整体的风格却显示出前所未有的从容、充裕、幽默和洒脱。尽管骨子里依旧藏着鲁迅固有的悲凉，却出之以诙谐的“游戏笔墨”，这表明鲁迅的思想与艺术都达到了一个新的环境，具有某种超前性。在它的很多篇中，都可以发现或隐或现、或浓或淡的存在着“庄严”与“荒诞”两种色彩和语调，互相补充、渗透和消解。\n8、《围城》 钱钟书\r说到爱情、婚姻，怎能不提这部人尽皆知的经典小说《围城》呢？《围城》是一幅栩栩如生的世井百态图，人生的酸甜苦辣千般滋味均在其中得到了淋漓尽致的体现。围城的精髓已经被总结提炼成了一段流传甚广的话：外面的想进去，里面的想出来。从婚姻是“围城”，到最后感慨人生是“围城”。\n钱钟书的讽刺不是对社会的批判，而是一种文化批评。作品对食古不化和全盘西化的旧式人物和新式人物，都给予了某种嘲弄。这种嘲弄从文化上掂量出这两种人物的狭隘和偏激。表面上似乎诗书礼仪、放眼世界，其实可笑得很。这种批判，是站在知识本位的立场上展开的。作为知识分子，他们首先在知识方面就有所欠缺。表面上个个挂着教授、学者的头衔，但真正要从知识上追问他们的学问，却一个个都露出了丑态。方鸿渐的博士文凭是买来的；与大学教授沾不上边的李梅亭，偏偏是中文系教授。 正是基于人性立场对人性的不足、弱点和丑恶的揭露，以及对文化的批判，《围城》的艺术价值更有其独特性。它教会我们一个聪明的人应该怎样看待人生。\n9、《洗澡》 杨绛\r中国现代文学中的新《儒林外史》！一部反映新中国成立后，知识分子思想改造运动的长篇小说。作品人物众多，故事曲折，其中尤以姚宓和许彦成之间的纯洁感情为人所称道！\n《洗澡》主要描写的是解放后知识分子第一次经受的思想改造，即知识分子思想改造运动。杨绛女士将知识分子这一群体的内心世界、外貌形象刻画得惟妙惟肖。书情节生动，文笔简练，富有生活气息，反映了那个年代以及那个年代的人们真实的思想壮志。本书语言简洁、内容丰富、通俗易懂，是一本了解解放后知识份子的思想感情读物。\n假如说，人是有灵性、有良知的动物，那么，人生一世，无非是认识自己，洗炼自己，自觉自愿地改造自己，除非甘心与禽兽无异。但是这又谈何容易呢？这部小说里，只有一两人自觉自愿地试图超拔自己。\n10、《文学回忆录》 木心\r木心的文学回忆，陈丹青五年听课笔录！这本文学回忆录虽不能算在名著之列，但读过之后，必在世界文学门内，不在门外！木心的《文学回忆录》斩钉截铁，不解释、不道歉、不犹疑。他平视世界文学史上的巨擘大师，平视一切现在的与未来的读者，于是自在自由，娓娓道出他的文学的回忆。这是木心留给世界的礼物，文学的福音书！\n文学是可爱的。生活是好玩的。艺术是要有所牺牲的。八十年代末，木心客居纽约时期，亦自他恢复写作、持续出书以来，纽约地面的大陆和台湾同行在异国谋饭之中，居然促成木心开讲“世界文学史”，忽忽长达五年的一场“文学的远征”——从1989年1月15日开课，到1994年1月9日最后一课，每位听课人轮流提供自家客厅，在座者有画家、舞蹈家、史家、雕刻家等等。\n陈丹青回忆，“我们当年这样地胡闹一场，回想起来，近于荒谬的境界：没有注册，没有教室，没有课本，没有考试与证书，更没有赞助与课题费，不过是在纽约市皇后区、曼哈顿区、布鲁克林区的不同寓所中，团团坐拢来，听木心神聊。”菜单开出来，大家选。从古希腊神话、新旧约，到诗经、楚辞，从中世纪欧洲文学，到二十世纪文学世界，东方西方通讲，知识灵感并作。其中听的听，讲的讲，“金句”纷披，兀自燃烧。“讲完后，一部文学史，重要的是我的观点。”木心说。古代，中世纪，近代，每个时代都能找到精神血统，艺术亲人。\nReference\r https://www.tuijianshu.net/article-2913-1.html  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/%E8%AF%BB%E4%B9%A6/",
-	"title": "读书",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/categories/%E8%AF%BB%E4%B9%A6/",
 	"title": "读书",
 	"tags": [],
@@ -433,6 +442,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/%E8%AF%BB%E4%B9%A6/",
+	"title": "读书",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/%E8%AF%BB%E4%B9%A6/",
 	"title": "读书",
 	"tags": [],
 	"categories": [],
@@ -504,7 +522,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/web/",
+	"uri": "https://hhjian666.github.io/en/tags/web/",
 	"title": "web",
 	"tags": [],
 	"categories": [],
@@ -513,7 +531,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/web/",
+	"uri": "https://hhjian666.github.io/en/categories/web/",
 	"title": "web",
 	"tags": [],
 	"categories": [],
@@ -540,7 +558,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/windows/",
+	"uri": "https://hhjian666.github.io/en/tags/windows/",
 	"title": "windows",
 	"tags": [],
 	"categories": [],
@@ -549,7 +567,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/windows/",
+	"uri": "https://hhjian666.github.io/en/categories/windows/",
 	"title": "windows",
 	"tags": [],
 	"categories": [],
@@ -600,7 +618,7 @@
 	"categories": [],
 	"series": [],
 	"description": "learn to use markdown",
-	"content": "高亮，代码可识别的语言：1c, abnf, accesslog, actionscript, ada, apache, applescript, arduino, armasm, asciidoc, aspectj, autohotkey, autoit, avrasm, awk, axapta, bash, basic, bnf, brainfuck, cal, capnproto, ceylon, clean, clojure, clojure-repl, cmake, coffeescript, coq, cos, cpp, crmsh, crystal, cs, csp, css, d, dart, delphi, diff, django, dns, dockerfile, dos, dsconfig, dts, dust, ebnf, elixir, elm, erb, erlang, erlang-repl, excel, fix, flix, fortran, fsharp, gams, gauss, gcode, gherkin, glsl, go, golo, gradle, groovy, haml, handlebars, haskell, haxe, hsp, htmlbars, http, hy, inform7, ini, irpf90, java, javascript, json, julia, kotlin, lasso, ldif, leaf, less, lisp, livecodeserver, livescript, llvm, lsl, lua, makefile, markdown, mathematica, matlab, maxima, mel, mercury, mipsasm, mizar, mojolicious, monkey, moonscript, n1ql, nginx, nimrod, nix, nsis, objectivec, ocaml, openscad, oxygene, parser3, perl, pf, php, pony, powershell, processing, profile, prolog, protobuf, puppet, purebasic, python, q, qml, r, rib, roboconf, rsl, ruby, ruleslanguage, rust, scala, scheme, scilab, scss, smali, smalltalk, sml, sqf, sql, stan, stata, step21, stylus, subunit, swift, taggerscript, tap, tcl, tex, thrift, tp, twig, typescript, vala, vbnet, vbscript, vbscript-html, verilog, vhdl, vim, x86asm, xl, xml, xquery, yaml, zephir\n1 2 3  $(document).ready(function () {\ralert(\u0026#39;hello world\u0026#39;);\r});\r  1 2 3 4 5  ```javascript\r$(document).ready(function () {\ralert(\u0026#39;hello world\u0026#39;);\r});\r```\r  1 2 3  def g(x):\ryield from range(x, 0, -1)\ryield from range(x)\r  nohightlight 禁用高亮\n====== 标题1\t\u0026mdash;\u0026mdash; 标题2\n大标题 小标题 斜体文本 斜体文本 粗体文本 粗体文本 粗斜体文本 粗斜体文本\nhttps://www.baidu.com\n 减号（加号、星号）+空格   数字+空格 嵌套使用  嵌套使用     最外层引用\n 嵌套引用\n  $$ x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}. $$\n$$\nx \\href{why-equal.html}{=} y^2 + 1\n$$\n$$ (x+1)^2 = \\class{hidden}{(x+1)(x+1)} $$\n$$\n(x+1)^2 = \\cssId{step1}{\\style{visibility:hidden}{(x+1)(x+1)}}\n$$\n\rimg:\r\r\nthis is a text\rYeahhh ! is a text\rBe carefull is a text\rBeware ! is a text\r  \rExpand me\r\r\rGood job\r\r note, info, tip, warning A notice disclaimer\n text "
+	"content": "高亮，代码可识别的语言：1c, abnf, accesslog, actionscript, ada, apache, applescript, arduino, armasm, asciidoc, aspectj, autohotkey, autoit, avrasm, awk, axapta, bash, basic, bnf, brainfuck, cal, capnproto, ceylon, clean, clojure, clojure-repl, cmake, coffeescript, coq, cos, cpp, crmsh, crystal, cs, csp, css, d, dart, delphi, diff, django, dns, dockerfile, dos, dsconfig, dts, dust, ebnf, elixir, elm, erb, erlang, erlang-repl, excel, fix, flix, fortran, fsharp, gams, gauss, gcode, gherkin, glsl, go, golo, gradle, groovy, haml, handlebars, haskell, haxe, hsp, htmlbars, http, hy, inform7, ini, irpf90, java, javascript, json, julia, kotlin, lasso, ldif, leaf, less, lisp, livecodeserver, livescript, llvm, lsl, lua, makefile, markdown, mathematica, matlab, maxima, mel, mercury, mipsasm, mizar, mojolicious, monkey, moonscript, n1ql, nginx, nimrod, nix, nsis, objectivec, ocaml, openscad, oxygene, parser3, perl, pf, php, pony, powershell, processing, profile, prolog, protobuf, puppet, purebasic, python, q, qml, r, rib, roboconf, rsl, ruby, ruleslanguage, rust, scala, scheme, scilab, scss, smali, smalltalk, sml, sqf, sql, stan, stata, step21, stylus, subunit, swift, taggerscript, tap, tcl, tex, thrift, tp, twig, typescript, vala, vbnet, vbscript, vbscript-html, verilog, vhdl, vim, x86asm, xl, xml, xquery, yaml, zephir\n1 2 3  $(document).ready(function () {\ralert(\u0026#39;hello world\u0026#39;);\r});\r  1 2 3 4 5  ```javascript\r$(document).ready(function () {\ralert(\u0026#39;hello world\u0026#39;);\r});\r```\r  1 2 3  def g(x):\ryield from range(x, 0, -1)\ryield from range(x)\r  nohightlight 禁用高亮\n====== 标题1\t\u0026mdash;\u0026mdash; 标题2\n大标题 小标题 斜体文本 斜体文本 粗体文本 粗体文本 粗斜体文本 粗斜体文本\nhttps://www.baidu.com\n 减号（加号、星号）+空格   数字+空格 嵌套使用  嵌套使用     最外层引用\n 嵌套引用\n  $$ x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}. $$\n$$\nx \\href{why-equal.html}{=} y^2 + 1\n$$\n$$ (x+1)^2 = \\class{hidden}{(x+1)(x+1)} $$\n$$\n(x+1)^2 = \\cssId{step1}{\\style{visibility:hidden}{(x+1)(x+1)}}\n$$\n\rimg:\r\r\nthis is a text\rYeahhh ! is a text\rBe carefull is a text\rBeware ! is a text\r  \rExpand me\r\r\rGood job\r\r note, info, tip, warning A notice disclaimer\n textk\n"
 },
 {
 	"uri": "https://hhjian666.github.io/en/tags/markdown/",
@@ -693,7 +711,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/themes/",
+	"uri": "https://hhjian666.github.io/en/tags/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
@@ -702,7 +720,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/themes/",
+	"uri": "https://hhjian666.github.io/en/categories/themes/",
 	"title": "themes",
 	"tags": [],
 	"categories": [],
