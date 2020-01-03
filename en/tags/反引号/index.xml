@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>反引号 on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/tags/%E5%8F%8D%E5%BC%95%E5%8F%B7/</link>
+    <description>Recent content in 反引号 on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 11:04:48 +0800</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/tags/%E5%8F%8D%E5%BC%95%E5%8F%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>反引号的使用</title>
+        <link>https://hhjian666.github.io/en/programs/mysql/%E5%8F%8D%E5%BC%95%E5%8F%B7%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Fri, 03 Jan 2020 11:04:48 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/mysql/%E5%8F%8D%E5%BC%95%E5%8F%B7%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+        <description>为了区分MYSQL的保留字与普通字符而引入的符号 SELECT `select` FROM `test` WHERE select=&#39;字段值&#39; 在test表中，有个select字段，如果不用反引号，MY</description>
+      </item>
+      
+    
+  </channel>
+</rss>
