@@ -9,12 +9,21 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 14:46:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 15:03:47 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/series/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Spyder无法使用</title>
+        <link>https://hhjian666.github.io/en/programs/python/spyder%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Fri, 03 Jan 2020 15:03:47 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/spyder%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8/</guid>
+        <description>1、更换Spyder版本 C:\Users\Administrator&amp;gt;spyder &amp;ndash;new-instance spyder-kernels &amp;lt; 1.0 is required (found 1.8.1).#版本太高 不支持 pip install -U spyder 2、删除某些文件 删除：C:\用户\Administrator里</description>
+      </item>
       
       <item>
         <title>更新库</title>

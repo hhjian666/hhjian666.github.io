@@ -18,25 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/pip/",
-	"title": "pip",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/tags/python/",
-	"title": "python",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/series/python/",
 	"title": "python",
 	"tags": [],
 	"categories": [],
@@ -54,6 +36,15 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/series/python/",
+	"title": "python",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/series/",
 	"title": "Series",
 	"tags": [],
@@ -63,8 +54,35 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/tags/spyder/",
+	"title": "spyder",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/programs/python/spyder%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8/",
+	"title": "Spyder无法使用",
+	"tags": ["spyder", "python"],
+	"categories": [],
+	"series": ["python"],
+	"description": "对python库升级后，spyder无法打开",
+	"content": "1、更换Spyder版本\rC:\\Users\\Administrator\u0026gt;spyder \u0026ndash;new-instance\nspyder-kernels \u0026lt; 1.0 is required (found 1.8.1).#版本太高 不支持\npip install -U spyder\n2、删除某些文件\r删除：C:\\用户\\Administrator里面的.spyder-py3和.matplotlib文件，然后启动Spyder\n仅删除：C:\\用户\\Administrator里面的.spyder-py3文件，然后启动Spyder\n3、重新安装Spyder\rconda install spyder\n4、安装PyQt5-tools\rpip install PyQt5-tools\n5、安装spyder-kernels\rpip install spyder-kernels==0.*\n6、安装pywin32\rpywin32-221.win-amd64-py3.7.exe\nReference\r https://zhidao.baidu.com/question/1388303482808084020.html https://blog.csdn.net/dugushangliang/article/details/90510589 https://blog.csdn.net/weixin_43575157/article/details/95732910 https://blog.csdn.net/weixin_41688854/article/details/89632779 https://blog.csdn.net/qq_41683065/article/details/99710373 https://github.com/spyder-ide/spyder/issues/7395  "
+},
+{
 	"uri": "https://hhjian666.github.io/en/tags/",
 	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/pip/",
+	"title": "pip",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -108,6 +126,15 @@
 	"content": "在python中，对象赋值实际上是对象的引用。当创建一个对象，然后把它赋给另一个变量的时候，python并没有拷贝这个对象，而只是拷贝了这个对象的引用。\n1  alist=[1,2,3,[\u0026#34;a\u0026#34;,\u0026#34;b\u0026#34;]]\r  1、直接赋值（浅拷贝）\r默认浅拷贝传递对象的引用而已,原始列表改变，被赋值的b也会做相同的改变\n1 2 3 4 5 6 7 8  \u0026gt;\u0026gt;\u0026gt; b=alist\r\u0026gt;\u0026gt;\u0026gt; print b\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print b\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r  2、copy拷贝（深层浅拷贝）\r没有拷贝子对象，所以原始数据改变，子对象会改变\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  \u0026gt;\u0026gt;\u0026gt; import copy\r\u0026gt;\u0026gt;\u0026gt; c=copy.copy(alist)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist[3]\r[\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]\r\u0026gt;\u0026gt;\u0026gt; alist[3].append(\u0026#39;cccc\u0026#39;)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;cccc\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;cccc\u0026#39;]]\r  3、深拷贝\r包含对象里面的自对象的拷贝，所以原始对象的改变不会造成深拷贝里任何子元素的改变\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  \u0026gt;\u0026gt;\u0026gt; import copy\r\u0026gt;\u0026gt;\u0026gt; d=copy.deepcopy(alist)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist[3]\r[\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]\r\u0026gt;\u0026gt;\u0026gt; alist[3].append(\u0026#34;ccccc\u0026#34;)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;ccccc\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r  Reference\r https://www.cnblogs.com/xueli/articles/4952063.html?tdsourcetag=s_pctim_aiomsg  "
 },
 {
+	"uri": "https://hhjian666.github.io/en/categories/mysql/",
+	"title": "mysql",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/tags/mysql/",
 	"title": "mysql",
 	"tags": [],
@@ -118,15 +145,6 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/mysql/",
-	"title": "mysql",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/mysql/",
 	"title": "mysql",
 	"tags": [],
 	"categories": [],
@@ -162,6 +180,15 @@
 	"content": "为了区分MYSQL的保留字与普通字符而引入的符号\nSELECT `select` FROM `test` WHERE select='字段值'\n在test表中，有个select字段，如果不用反引号，MYSQL将把select视为保留字而导致出错，所以，有MYSQL保留字作为字段的，必须加上反引号来区分。\n不加反引号建的表不能包含MYSQL保留字，否则出错。\n   ADD ALL ALTER     ANALYZE AND AS   ASC ASENSITIVE BEFORE   BETWEEN BIGINT BINARY   BLOB BOTH BY   CALL CASCADE CASE   CHANGE CHAR CHARACTER   CHECK COLLATE COLUMN   CONDITION CONNECTION CONSTRAINT   CONTINUE CONVERT CREATE   CROSS CURRENT_DATE CURRENT_TIME   CURRENT_TIMESTAMP CURRENT_USER CURSOR   DATABASE DATABASES DAY_HOUR   DAY_MICROSECOND DAY_MINUTE DAY_SECOND   DEC DECIMAL DECLARE   DEFAULT DELAYED DELETE   DESC DESCRIBE DETERMINISTIC   DISTINCT DISTINCTROW p   DOUBLE DROP DUAL   EACH ELSE ELSEIF   ENCLOSED ESCAPED EXISTS   EXIT EXPLAIN FALSE   FETCH FLOAT FLOAT4   FLOAT8 FOR FORCE   FOREIGN FROM FULLTEXT   GOTO GRANT GROUP   HAVING HIGH_PRIORITY HOUR_MICROSECOND   HOUR_MINUTE HOUR_SECOND IF   IGNORE IN INDEX   INFILE INNER INOUT   INSENSITIVE INSERT INT   INT1 INT2 INT3   INT4 INT8 INTEGER   INTERVAL INTO IS   ITERATE JOIN KEY   KEYS KILL LABEL   LEADING LEAVE LEFT   LIKE LIMIT LINEAR   LINES LOAD LOCALTIME   LOCALTIMESTAMP LOCK LONG   LONGBLOB LONGTEXT LOOP   LOW_PRIORITY MATCH MEDIUMBLOB   MEDIUMINT MEDIUMTEXT MIDDLEINT   MINUTE_MICROSECOND MINUTE_SECOND MOD   MODIFIES NATURAL NOT   NO_WRITE_TO_BINLOG NULL NUMERIC   ON OPTIMIZE OPTION   OPTIONALLY OR ORDER   OUT OUTER OUTFILE   PRECISION PRIMARY PROCEDURE   PURGE RAID0 RANGE   READ READS REAL   REFERENCES REGEXP RELEASE   RENAME REPEAT REPLACE   REQUIRE RESTRICT RETURN   REVOKE RIGHT RLIKE   SCHEMA SCHEMAS SECOND_MICROSECOND   SELECT SENSITIVE SEPARATOR   SET SHOW SMALLINT   SPATIAL SPECIFIC SQL   SQLEXCEPTION SQLSTATE SQLWARNING   SQL_BIG_RESULT SQL_CALC_FOUND_ROWS SQL_SMALL_RESULT   SSL STARTING STRAIGHT_JOIN   TABLE TERMINATED THEN   TINYBLOB TINYINT TINYTEXT   TO TRAILING TRIGGER   TRUE UNDO UNION   UNIQUE UNLOCK UNSIGNED   UPDATE USAGE USE   USING UTC_DATE UTC_TIME   UTC_TIMESTAMP VALUES VARBINARY   VARCHAR VARCHARACTER VARYING   WHEN WHERE WHILE   WITH WRITE X509   XOR YEAR_MONTH ZEROFILL    注：MySQL允许部分关键字用做未引起来的识别符，因为许多人以前曾使用过它们。如：ACTION、BIT、DATE、ENUM、NO、TEXT、TIME、TIMESTAMP。\nReference\r https://www.php.cn/mysql-tutorials-360443.html  "
 },
 {
+	"uri": "https://hhjian666.github.io/en/tags/c-c++/",
+	"title": "c-c++",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
 	"title": "c-c++",
 	"tags": [],
@@ -172,15 +199,6 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/c-c++/",
-	"title": "c-c++",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/tags/c-c++/",
 	"title": "c-c++",
 	"tags": [],
 	"categories": [],
@@ -342,7 +360,7 @@
 	"content": "1、多余段落标记和换行符\r2、多余分节符\r3、多余分页符\r4、 上一页结尾是表格\r\r显示各种符号\r选中最后的换行符\r设置效果为隐藏\r隐藏各种符号\r\rReference\r http://www.wordlm.com/html/6586.html  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/wps/",
+	"uri": "https://hhjian666.github.io/en/categories/wps/",
 	"title": "wps",
 	"tags": [],
 	"categories": [],
@@ -351,7 +369,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/wps/",
+	"uri": "https://hhjian666.github.io/en/series/wps/",
 	"title": "wps",
 	"tags": [],
 	"categories": [],
@@ -396,7 +414,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/html/",
+	"uri": "https://hhjian666.github.io/en/categories/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],
@@ -405,7 +423,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/html/",
+	"uri": "https://hhjian666.github.io/en/tags/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],
@@ -549,7 +567,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/web/",
+	"uri": "https://hhjian666.github.io/en/tags/web/",
 	"title": "web",
 	"tags": [],
 	"categories": [],
@@ -558,7 +576,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/web/",
+	"uri": "https://hhjian666.github.io/en/series/web/",
 	"title": "web",
 	"tags": [],
 	"categories": [],
