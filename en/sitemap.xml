@@ -38,22 +38,17 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/series/git/</loc>
-    <lastmod>2020-01-03T15:53:48+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hhjian666.github.io/en/tags/git/</loc>
     <lastmod>2020-01-03T15:53:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/git/</loc>
+    <loc>https://hhjian666.github.io/en/series/git/</loc>
     <lastmod>2020-01-03T15:53:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/programs/</loc>
+    <loc>https://hhjian666.github.io/en/categories/git/</loc>
     <lastmod>2020-01-03T15:53:48+08:00</lastmod>
   </url>
   
@@ -98,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/series/python/</loc>
+    <loc>https://hhjian666.github.io/en/categories/python/</loc>
     <lastmod>2020-01-03T15:03:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/python/</loc>
+    <loc>https://hhjian666.github.io/en/series/python/</loc>
     <lastmod>2020-01-03T15:03:47+08:00</lastmod>
   </url>
   
@@ -143,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/mysql/</loc>
+    <loc>https://hhjian666.github.io/en/categories/mysql/</loc>
     <lastmod>2020-01-03T11:04:48+08:00</lastmod>
   </url>
   
@@ -153,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/mysql/</loc>
+    <loc>https://hhjian666.github.io/en/tags/mysql/</loc>
     <lastmod>2020-01-03T11:04:48+08:00</lastmod>
   </url>
   
@@ -168,17 +163,17 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/c-c&#43;&#43;/</loc>
-    <lastmod>2020-01-03T10:39:11+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hhjian666.github.io/en/tags/c-c&#43;&#43;/</loc>
     <lastmod>2020-01-03T10:39:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/series/c-c&#43;&#43;/</loc>
+    <lastmod>2020-01-03T10:39:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/categories/c-c&#43;&#43;/</loc>
     <lastmod>2020-01-03T10:39:11+08:00</lastmod>
   </url>
   
@@ -218,12 +213,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hhjian666.github.io/en/series/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2020-01-02T23:21:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/series/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hhjian666.github.io/en/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2020-01-02T23:21:30+08:00</lastmod>
   </url>
   
@@ -303,12 +298,12 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/html/</loc>
+    <loc>https://hhjian666.github.io/en/series/html/</loc>
     <lastmod>2020-01-01T22:48:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/series/html/</loc>
+    <loc>https://hhjian666.github.io/en/tags/html/</loc>
     <lastmod>2020-01-01T22:48:23+08:00</lastmod>
   </url>
   
@@ -333,17 +328,17 @@
   </url>
   
   <url>
-    <loc>https://hhjian666.github.io/en/tags/%E8%AF%BB%E4%B9%A6/</loc>
-    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hhjian666.github.io/en/categories/%E8%AF%BB%E4%B9%A6/</loc>
     <lastmod>2019-12-31T17:15:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://hhjian666.github.io/en/series/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2019-12-31T17:15:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/tags/%E8%AF%BB%E4%B9%A6/</loc>
     <lastmod>2019-12-31T17:15:26+08:00</lastmod>
   </url>
   
@@ -643,7 +638,37 @@
   </url>
   
   <url>
+    <loc>https://hhjian666.github.io/en/programs/c#/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/c-c&#43;&#43;/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hhjian666.github.io/en/downloads/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/git/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/java/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/mysql/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/php/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
@@ -745,6 +770,10 @@
   <url>
     <loc>https://hhjian666.github.io/en/posts/syntax-highlight/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hhjian666.github.io/en/programs/</loc>
   </url>
   
 </urlset>

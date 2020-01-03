@@ -9,7 +9,6 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 15:53:48 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/programs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,30 +16,57 @@
     
       
       <item>
-        <title>Add Lf警告</title>
-        <link>https://hhjian666.github.io/en/programs/git/add-lf%E8%AD%A6%E5%91%8A/</link>
-        <pubDate>Fri, 03 Jan 2020 15:53:48 +0800</pubDate>
+        <title>C#</title>
+        <link>https://hhjian666.github.io/en/programs/c#/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/programs/git/add-lf%E8%AD%A6%E5%91%8A/</guid>
-        <description>Windows中的换行符为CRLF，linux中的换行符为LF 回车（Carriage-Return，ASCII码 13 \r），换行 （Line-F</description>
+        <guid>https://hhjian666.github.io/en/programs/c#/</guid>
+        <description></description>
       </item>
       
       <item>
-        <title>反引号的使用</title>
-        <link>https://hhjian666.github.io/en/programs/mysql/%E5%8F%8D%E5%BC%95%E5%8F%B7%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
-        <pubDate>Fri, 03 Jan 2020 11:04:48 +0800</pubDate>
+        <title>C-C&#43;&#43;</title>
+        <link>https://hhjian666.github.io/en/programs/c-c&#43;&#43;/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/programs/mysql/%E5%8F%8D%E5%BC%95%E5%8F%B7%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
-        <description>为了区分MYSQL的保留字与普通字符而引入的符号 SELECT `select` FROM `test` WHERE select=&#39;字段值&#39; 在test表中，有个select字段，如果不用反引号，MY</description>
+        <guid>https://hhjian666.github.io/en/programs/c-c&#43;&#43;/</guid>
+        <description></description>
       </item>
       
       <item>
-        <title>Dev使用c&#43;&#43;11</title>
-        <link>https://hhjian666.github.io/en/programs/c-c&#43;&#43;/dev%E4%BD%BF%E7%94%A8c&#43;&#43;11/</link>
-        <pubDate>Fri, 03 Jan 2020 10:39:11 +0800</pubDate>
+        <title>Git</title>
+        <link>https://hhjian666.github.io/en/programs/git/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
         <author>1109647326@qq.com (hhjian)</author>
-        <guid>https://hhjian666.github.io/en/programs/c-c&#43;&#43;/dev%E4%BD%BF%E7%94%A8c&#43;&#43;11/</guid>
-        <description>工具 - 编译选项 - 编译器 编译时加入这个命令：-std=c++11 Reference https://blog.csdn.net/liuchuo/article/details/82669248</description>
+        <guid>https://hhjian666.github.io/en/programs/git/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Java</title>
+        <link>https://hhjian666.github.io/en/programs/java/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/java/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Mysql</title>
+        <link>https://hhjian666.github.io/en/programs/mysql/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/mysql/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>PHP</title>
+        <link>https://hhjian666.github.io/en/programs/php/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/php/</guid>
+        <description></description>
       </item>
       
       <item>
