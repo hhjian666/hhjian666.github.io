@@ -9,12 +9,21 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jan 2020 22:32:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2020 23:33:29 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/series/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>解除占用删除文件</title>
+        <link>https://hhjian666.github.io/en/windows/%E8%A7%A3%E9%99%A4%E5%8D%A0%E7%94%A8%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</link>
+        <pubDate>Sat, 04 Jan 2020 23:33:29 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/windows/%E8%A7%A3%E9%99%A4%E5%8D%A0%E7%94%A8%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</guid>
+        <description>任务管理器（ctrl + shift + esc） 资源监视器，cpu 在“搜索句柄”中输入 删除失败被占用的文件名 列出的进程上右击“结束进程” 可删除文件 Reference https://jingyan.baidu.com/article/1e5468f948aea6484861b743.html</description>
+      </item>
       
       <item>
         <title>Ctfmon开机无法自动启动</title>
