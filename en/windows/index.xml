@@ -17,6 +17,15 @@
     
       
       <item>
+        <title>Shutdown命令</title>
+        <link>https://hhjian666.github.io/en/windows/shutdown%E5%91%BD%E4%BB%A4/</link>
+        <pubDate>Sun, 05 Jan 2020 23:11:20 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/windows/shutdown%E5%91%BD%E4%BB%A4/</guid>
+        <description>1、30s后自动关机 shutdown -s 2、1h后自动关机 shutdown -s -t 3600 3、晚上10点自动关机 at 22:00 shutdown -s Reference https://www.cnblogs.com/liaoxiaolao/p/8409742.html https://www.runoob.com/linux/linux-comm-shutdown.html</description>
+      </item>
+      
+      <item>
         <title>解除占用删除文件</title>
         <link>https://hhjian666.github.io/en/windows/%E8%A7%A3%E9%99%A4%E5%8D%A0%E7%94%A8%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</link>
         <pubDate>Sat, 04 Jan 2020 23:33:29 +0800</pubDate>
