@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>turtle on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/tags/turtle/</link>
+    <description>Recent content in turtle on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 06 Feb 2020 06:33:25 +0800</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/tags/turtle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Turtle没有Pen？</title>
+        <link>https://hhjian666.github.io/en/programs/python/turtle%E6%B2%A1%E6%9C%89pen/</link>
+        <pubDate>Thu, 06 Feb 2020 06:33:25 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/turtle%E6%B2%A1%E6%9C%89pen/</guid>
+        <description>因为我保存的文件名为turtle.py，与函数有冲突。。。</description>
+      </item>
+      
+    
+  </channel>
+</rss>

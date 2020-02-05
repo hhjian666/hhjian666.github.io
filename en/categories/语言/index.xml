@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>语言 on Sinhaeng_Hhjian</title>
+    <link>https://hhjian666.github.io/en/categories/%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in 语言 on Sinhaeng_Hhjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
+    <webMaster>1109647326@qq.com (hhjian)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 06 Feb 2020 06:10:29 +0800</lastBuildDate>
+    
+        <atom:link href="https://hhjian666.github.io/en/categories/%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>各语言之间的区别</title>
+        <link>https://hhjian666.github.io/en/programs/%E5%90%84%E8%AF%AD%E8%A8%80%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
+        <pubDate>Thu, 06 Feb 2020 06:10:29 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/%E5%90%84%E8%AF%AD%E8%A8%80%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
+        <description>1、C 面向过程 2、C++ 更接近底层，方便直接操作内存，良好地兼容了C，完全支持C，既可以面向对象，也可以面向过程，一次编写到处编译，编译成本</description>
+      </item>
+      
+    
+  </channel>
+</rss>
