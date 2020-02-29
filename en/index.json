@@ -18,6 +18,15 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/programs/python/isdigit-isdecimal-isnumeric/",
+	"title": "Isdigit Isdecimal Isnumeric",
+	"tags": ["python", "str"],
+	"categories": [],
+	"series": ["python"],
+	"description": "str函数isdigit、isdecimal和isnumeric的区别",
+	"content": "1、isdigit()\r True: Unicode数字，byte数字（单字节），全角数字（双字节），罗马数字 False: 汉字数字 Error: 无  2、isdecimal()\r True: Unicode数字，全角数字（双字节） False: 罗马数字，汉字数字 Error: byte数字（单字节）  3、isnumeric()\r True: Unicode数字，全角数字（双字节），罗马数字，汉字数字 False: 无 Error: byte数字（单字节）  Reference\r https://www.cnblogs.com/jebeljebel/p/4006433.html  "
+},
+{
 	"uri": "https://hhjian666.github.io/en/series/python/",
 	"title": "python",
 	"tags": [],
@@ -54,6 +63,24 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/categories/str/",
+	"title": "str",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/str/",
+	"title": "str",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/tags/",
 	"title": "Tags",
 	"tags": [],
@@ -61,6 +88,15 @@
 	"series": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/programs/python/while-else/",
+	"title": "While Else",
+	"tags": ["python"],
+	"categories": [],
+	"series": ["python"],
+	"description": "while-else的使用",
+	"content": "当while正常退出时才执行else\nReference\r https://blog.csdn.net/weixin_42233629/article/details/81412388  "
 },
 {
 	"uri": "https://hhjian666.github.io/en/categories/turtle/",
@@ -135,15 +171,6 @@
 	"content": "1、C\r面向过程\n2、C++\r更接近底层，方便直接操作内存，良好地兼容了C，完全支持C，既可以面向对象，也可以面向过程，一次编写到处编译，编译成本地机器码，可以由操作系统直接运行，运行效率高，需要程序员进行垃圾回收。\n3、Java\rJava去除空指针和野指针带来的许多麻烦，做了更高级的封装，一次编译到处执行，编译成字节码，需要由Java虚拟机读取运行，运行效率低，但可以通过JIT提高运行效率， 有自己的垃圾回收机制。\n4、Python\r脚本语言，更适合做算法，基于C++，效率低。\nReference\r https://www.zhihu.com/question/21976478/answer/158145376 https://www.cnblogs.com/mrchige/p/5923136.html  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/%E8%AF%AD%E8%A8%80/",
-	"title": "语言",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/series/%E8%AF%AD%E8%A8%80/",
 	"title": "语言",
 	"tags": [],
@@ -154,6 +181,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/categories/%E8%AF%AD%E8%A8%80/",
+	"title": "语言",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/%E8%AF%AD%E8%A8%80/",
 	"title": "语言",
 	"tags": [],
 	"categories": [],
@@ -216,7 +252,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/%E6%80%9D%E7%BB%B4/",
+	"uri": "https://hhjian666.github.io/en/tags/%E6%80%9D%E7%BB%B4/",
 	"title": "思维",
 	"tags": [],
 	"categories": [],
@@ -225,7 +261,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/%E6%80%9D%E7%BB%B4/",
+	"uri": "https://hhjian666.github.io/en/categories/%E6%80%9D%E7%BB%B4/",
 	"title": "思维",
 	"tags": [],
 	"categories": [],
@@ -261,6 +297,15 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/categories/windows/",
+	"title": "windows",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/series/windows/",
 	"title": "windows",
 	"tags": [],
@@ -272,24 +317,6 @@
 {
 	"uri": "https://hhjian666.github.io/en/tags/windows/",
 	"title": "windows",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/windows/",
-	"title": "windows",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/wps/",
-	"title": "wps",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -315,6 +342,15 @@
 	"content": ""
 },
 {
+	"uri": "https://hhjian666.github.io/en/categories/wps/",
+	"title": "wps",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/windows/wps%E9%A1%B5%E7%9C%89/",
 	"title": "Wps页眉",
 	"tags": ["windows", "wps"],
@@ -324,7 +360,7 @@
 	"content": " 主菜单 - 选项 - 格式标记 - 全部显示 章节末尾 - 插入下一页分节符 下一章节 - 关闭“同前节”  Reference\r https://jingyan.baidu.com/article/ce4366495b9ff63772afd355.html  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/%E6%B3%A8%E9%87%8A/",
+	"uri": "https://hhjian666.github.io/en/tags/%E6%B3%A8%E9%87%8A/",
 	"title": "注释",
 	"tags": [],
 	"categories": [],
@@ -333,7 +369,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/%E6%B3%A8%E9%87%8A/",
+	"uri": "https://hhjian666.github.io/en/categories/%E6%B3%A8%E9%87%8A/",
 	"title": "注释",
 	"tags": [],
 	"categories": [],
@@ -396,15 +432,6 @@
 	"content": "Windows中的换行符为CRLF，linux中的换行符为LF\n回车（Carriage-Return，ASCII码 13 \\r），换行 （Line-Feed，ASCII码 10 \\n）\ngit config --global core.autocrlf false\nReference\r https://blog.csdn.net/odelia145/article/details/83544735  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/git/",
-	"title": "git",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/series/git/",
 	"title": "git",
 	"tags": [],
@@ -415,6 +442,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/categories/git/",
+	"title": "git",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/tags/git/",
 	"title": "git",
 	"tags": [],
 	"categories": [],
@@ -495,15 +531,6 @@
 	"content": "在python中，对象赋值实际上是对象的引用。当创建一个对象，然后把它赋给另一个变量的时候，python并没有拷贝这个对象，而只是拷贝了这个对象的引用。\n1  alist=[1,2,3,[\u0026#34;a\u0026#34;,\u0026#34;b\u0026#34;]]\r  1、直接赋值（浅拷贝）\r默认浅拷贝传递对象的引用而已,原始列表改变，被赋值的b也会做相同的改变\n1 2 3 4 5 6 7 8  \u0026gt;\u0026gt;\u0026gt; b=alist\r\u0026gt;\u0026gt;\u0026gt; print b\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print b\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r  2、copy拷贝（深层浅拷贝）\r没有拷贝子对象，所以原始数据改变，子对象会改变\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  \u0026gt;\u0026gt;\u0026gt; import copy\r\u0026gt;\u0026gt;\u0026gt; c=copy.copy(alist)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist[3]\r[\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]\r\u0026gt;\u0026gt;\u0026gt; alist[3].append(\u0026#39;cccc\u0026#39;)\r\u0026gt;\u0026gt;\u0026gt; print alist;print c\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;cccc\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;cccc\u0026#39;]]\r  3、深拷贝\r包含对象里面的自对象的拷贝，所以原始对象的改变不会造成深拷贝里任何子元素的改变\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  \u0026gt;\u0026gt;\u0026gt; import copy\r\u0026gt;\u0026gt;\u0026gt; d=copy.deepcopy(alist)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist.append(5)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r\u0026gt;\u0026gt;\u0026gt; alist[3]\r[\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]\r\u0026gt;\u0026gt;\u0026gt; alist[3].append(\u0026#34;ccccc\u0026#34;)\r\u0026gt;\u0026gt;\u0026gt; print alist;print d\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;, \u0026#39;ccccc\u0026#39;], 5]\r[1, 2, 3, [\u0026#39;a\u0026#39;, \u0026#39;b\u0026#39;]]\r  Reference\r https://www.cnblogs.com/xueli/articles/4952063.html?tdsourcetag=s_pctim_aiomsg  "
 },
 {
-	"uri": "https://hhjian666.github.io/en/categories/mysql/",
-	"title": "mysql",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://hhjian666.github.io/en/tags/mysql/",
 	"title": "mysql",
 	"tags": [],
@@ -514,6 +541,15 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/mysql/",
+	"title": "mysql",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hhjian666.github.io/en/categories/mysql/",
 	"title": "mysql",
 	"tags": [],
 	"categories": [],
@@ -540,6 +576,15 @@
 	"content": "为了区分MYSQL的保留字与普通字符而引入的符号\nSELECT `select` FROM `test` WHERE select='字段值'\n在test表中，有个select字段，如果不用反引号，MYSQL将把select视为保留字而导致出错，所以，有MYSQL保留字作为字段的，必须加上反引号来区分。\n不加反引号建的表不能包含MYSQL保留字，否则出错。\n   ADD ALL ALTER     ANALYZE AND AS   ASC ASENSITIVE BEFORE   BETWEEN BIGINT BINARY   BLOB BOTH BY   CALL CASCADE CASE   CHANGE CHAR CHARACTER   CHECK COLLATE COLUMN   CONDITION CONNECTION CONSTRAINT   CONTINUE CONVERT CREATE   CROSS CURRENT_DATE CURRENT_TIME   CURRENT_TIMESTAMP CURRENT_USER CURSOR   DATABASE DATABASES DAY_HOUR   DAY_MICROSECOND DAY_MINUTE DAY_SECOND   DEC DECIMAL DECLARE   DEFAULT DELAYED DELETE   DESC DESCRIBE DETERMINISTIC   DISTINCT DISTINCTROW p   DOUBLE DROP DUAL   EACH ELSE ELSEIF   ENCLOSED ESCAPED EXISTS   EXIT EXPLAIN FALSE   FETCH FLOAT FLOAT4   FLOAT8 FOR FORCE   FOREIGN FROM FULLTEXT   GOTO GRANT GROUP   HAVING HIGH_PRIORITY HOUR_MICROSECOND   HOUR_MINUTE HOUR_SECOND IF   IGNORE IN INDEX   INFILE INNER INOUT   INSENSITIVE INSERT INT   INT1 INT2 INT3   INT4 INT8 INTEGER   INTERVAL INTO IS   ITERATE JOIN KEY   KEYS KILL LABEL   LEADING LEAVE LEFT   LIKE LIMIT LINEAR   LINES LOAD LOCALTIME   LOCALTIMESTAMP LOCK LONG   LONGBLOB LONGTEXT LOOP   LOW_PRIORITY MATCH MEDIUMBLOB   MEDIUMINT MEDIUMTEXT MIDDLEINT   MINUTE_MICROSECOND MINUTE_SECOND MOD   MODIFIES NATURAL NOT   NO_WRITE_TO_BINLOG NULL NUMERIC   ON OPTIMIZE OPTION   OPTIONALLY OR ORDER   OUT OUTER OUTFILE   PRECISION PRIMARY PROCEDURE   PURGE RAID0 RANGE   READ READS REAL   REFERENCES REGEXP RELEASE   RENAME REPEAT REPLACE   REQUIRE RESTRICT RETURN   REVOKE RIGHT RLIKE   SCHEMA SCHEMAS SECOND_MICROSECOND   SELECT SENSITIVE SEPARATOR   SET SHOW SMALLINT   SPATIAL SPECIFIC SQL   SQLEXCEPTION SQLSTATE SQLWARNING   SQL_BIG_RESULT SQL_CALC_FOUND_ROWS SQL_SMALL_RESULT   SSL STARTING STRAIGHT_JOIN   TABLE TERMINATED THEN   TINYBLOB TINYINT TINYTEXT   TO TRAILING TRIGGER   TRUE UNDO UNION   UNIQUE UNLOCK UNSIGNED   UPDATE USAGE USE   USING UTC_DATE UTC_TIME   UTC_TIMESTAMP VALUES VARBINARY   VARCHAR VARCHARACTER VARYING   WHEN WHERE WHILE   WITH WRITE X509   XOR YEAR_MONTH ZEROFILL    注：MySQL允许部分关键字用做未引起来的识别符，因为许多人以前曾使用过它们。如：ACTION、BIT、DATE、ENUM、NO、TEXT、TIME、TIMESTAMP。\nReference\r https://www.php.cn/mysql-tutorials-360443.html  "
 },
 {
+	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
+	"title": "c-c++",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://hhjian666.github.io/en/tags/c-c++/",
 	"title": "c-c++",
 	"tags": [],
@@ -550,15 +595,6 @@
 },
 {
 	"uri": "https://hhjian666.github.io/en/series/c-c++/",
-	"title": "c-c++",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://hhjian666.github.io/en/categories/c-c++/",
 	"title": "c-c++",
 	"tags": [],
 	"categories": [],
@@ -729,7 +765,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/tags/html/",
+	"uri": "https://hhjian666.github.io/en/series/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],
@@ -738,7 +774,7 @@
 	"content": ""
 },
 {
-	"uri": "https://hhjian666.github.io/en/series/html/",
+	"uri": "https://hhjian666.github.io/en/tags/html/",
 	"title": "html",
 	"tags": [],
 	"categories": [],

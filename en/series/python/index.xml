@@ -9,12 +9,30 @@
     <managingEditor>1109647326@qq.com (hhjian)</managingEditor>
     <webMaster>1109647326@qq.com (hhjian)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 06 Feb 2020 06:33:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2020 08:17:43 +0800</lastBuildDate>
     
         <atom:link href="https://hhjian666.github.io/en/series/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Isdigit Isdecimal Isnumeric</title>
+        <link>https://hhjian666.github.io/en/programs/python/isdigit-isdecimal-isnumeric/</link>
+        <pubDate>Thu, 06 Feb 2020 08:17:43 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/isdigit-isdecimal-isnumeric/</guid>
+        <description>1、isdigit() True: Unicode数字，byte数字（单字节），全角数字（双字节），罗马数字 False: 汉字数字 Error: 无 2、isdecimal() True: U</description>
+      </item>
+      
+      <item>
+        <title>While Else</title>
+        <link>https://hhjian666.github.io/en/programs/python/while-else/</link>
+        <pubDate>Thu, 06 Feb 2020 08:12:40 +0800</pubDate>
+        <author>1109647326@qq.com (hhjian)</author>
+        <guid>https://hhjian666.github.io/en/programs/python/while-else/</guid>
+        <description>当while正常退出时才执行else Reference https://blog.csdn.net/weixin_42233629/article/details/81412388</description>
+      </item>
       
       <item>
         <title>Turtle没有Pen？</title>
